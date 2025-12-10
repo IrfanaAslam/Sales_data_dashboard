@@ -1,0 +1,1201 @@
+OrderID,Date,Product,Category,UnitPrice,Quantity,Revenue,Region,Salesperson,CustomerID
+O100000,2025-02-06,Iota Charger,Electronics,100.61,1,100.61,North,Ayesha,C6679
+O100001,2025-04-12,Eta Laptop Sleeve,Accessories,199.88,1,199.88,East,Fatima,C2038
+O100002,2025-08-13,Iota Charger,Electronics,161.04,1,161.04,West,Ehsan,C9955
+O100003,2025-11-08,Theta Watch,Electronics,52.11,1,52.11,East,Ehsan,C8157
+O100004,2025-09-13,Iota Charger,Electronics,85.06,1,85.06,South,Fatima,C1756
+O100005,2025-01-30,Zeta Socks,Accessories,181.9,1,181.9,West,Carlos,C1742
+O100006,2024-12-09,Eta Laptop Sleeve,Accessories,133.71,1,133.71,North,Ayesha,C1868
+O100007,2025-09-26,Epsilon Jacket,Apparel,142.28,1,142.28,West,Dina,C2715
+O100008,2025-03-26,Beta T-shirt,Apparel,26.43,4,105.72,North,Ayesha,C2465
+O100009,2025-06-14,Kappa Backpack,Accessories,147.19,1,147.19,Central,Ehsan,C7128
+O100010,2025-10-14,Gamma Sneakers,Footwear,21.44,1,21.44,Central,Dina,C3397
+O100011,2025-09-26,Kappa Backpack,Accessories,213.01,4,852.04,Central,Carlos,C6861
+O100012,2025-05-21,Gamma Sneakers,Footwear,54.76,1,54.76,West,Fatima,C9000
+O100013,2025-06-14,Epsilon Jacket,Apparel,145.35,1,145.35,Central,Carlos,C4845
+O100014,2025-06-06,Alpha Hoodie,Apparel,242.98,1,242.98,North,Bilal,C4555
+O100015,2025-02-12,Theta Watch,Electronics,185.04,1,185.04,East,Dina,C1313
+O100016,2025-03-24,Iota Charger,Electronics,244.13,10,2441.3,South,Ayesha,C8091
+O100017,2025-03-19,Gamma Sneakers,Footwear,193.65,1,193.65,North,Carlos,C9190
+O100018,2025-11-26,Iota Charger,Electronics,82.2,2,164.4,Central,Ayesha,C4214
+O100019,2025-04-13,Eta Laptop Sleeve,Accessories,224.93,1,224.93,South,Ehsan,C6940
+O100020,2025-04-04,Gamma Sneakers,Footwear,66.3,2,132.6,Central,Dina,C6465
+O100021,2025-08-13,Beta T-shirt,Apparel,81.61,4,326.44,East,Dina,C6157
+O100022,2025-09-05,Eta Laptop Sleeve,Accessories,178.5,5,892.5,Central,Ehsan,C3118
+O100023,2025-11-13,Zeta Socks,Accessories,67.76,1,67.76,West,Ehsan,C4168
+O100024,2025-06-11,Kappa Backpack,Accessories,124.97,3,374.91,South,Carlos,C1245
+O100025,2025-07-20,Kappa Backpack,Accessories,15.62,1,15.62,South,Ayesha,C7986
+O100026,2025-10-06,Alpha Hoodie,Apparel,140.07,1,140.07,East,Dina,C5663
+O100027,2025-08-10,Alpha Hoodie,Apparel,163.33,1,163.33,West,Fatima,C2737
+O100028,2025-09-02,Theta Watch,Electronics,78.93,3,236.79,South,Ayesha,C2414
+O100029,2025-10-23,Iota Charger,Electronics,217.91,5,1089.55,Central,Dina,C4753
+O100030,2025-07-11,Epsilon Jacket,Apparel,230.9,1,230.9,West,Carlos,C8291
+O100031,2025-11-01,Delta Cap,Accessories,67.27,4,269.08,North,Fatima,C7954
+O100032,2025-07-07,Alpha Hoodie,Apparel,192.25,5,961.25,West,Dina,C8455
+O100033,2025-04-23,Gamma Sneakers,Footwear,118.26,1,118.26,East,Dina,C8510
+O100034,2025-07-20,Epsilon Jacket,Apparel,241.99,1,241.99,South,Fatima,C5598
+O100035,2025-10-28,Delta Cap,Accessories,69.27,1,69.27,West,Fatima,C7834
+O100036,2025-03-14,Alpha Hoodie,Apparel,190.26,1,190.26,North,Ayesha,C8402
+O100037,2024-12-30,Alpha Hoodie,Apparel,10.52,1,10.52,South,Carlos,C2673
+O100038,2025-11-24,Alpha Hoodie,Apparel,175.93,2,351.86,North,Dina,C8572
+O100039,2024-12-03,Theta Watch,Electronics,202.78,1,202.78,West,Carlos,C3207
+O100040,2025-09-06,Gamma Sneakers,Footwear,96.19,1,96.19,West,Ayesha,C9324
+O100041,2025-10-16,Kappa Backpack,Accessories,117.51,5,587.55,West,Carlos,C3265
+O100042,2025-02-13,Zeta Socks,Accessories,68.65,1,68.65,East,Fatima,C1935
+O100043,2025-08-24,Beta T-shirt,Apparel,14.83,1,14.83,East,Dina,C7481
+O100044,2025-03-14,Delta Cap,Accessories,53.99,1,53.99,South,Ehsan,C6688
+O100045,2025-11-30,Kappa Backpack,Accessories,68.36,1,68.36,North,Dina,C6279
+O100046,2025-01-30,Gamma Sneakers,Footwear,42.36,1,42.36,South,Ayesha,C4329
+O100047,2025-09-08,Gamma Sneakers,Footwear,55.14,1,55.14,East,Dina,C2984
+O100048,2025-04-12,Beta T-shirt,Apparel,204.32,1,204.32,West,Carlos,C3006
+O100049,2025-04-23,Epsilon Jacket,Apparel,165.95,1,165.95,West,Dina,C4667
+O100050,2025-02-25,Beta T-shirt,Apparel,48.15,1,48.15,South,Ayesha,C5959
+O100051,2025-09-23,Iota Charger,Electronics,177.59,1,177.59,West,Carlos,C5623
+O100052,2025-11-24,Gamma Sneakers,Footwear,76.73,1,76.73,South,Fatima,C5991
+O100053,2025-04-15,Gamma Sneakers,Footwear,141.7,1,141.7,Central,Fatima,C7111
+O100054,2025-03-10,Iota Charger,Electronics,70.32,1,70.32,West,Ayesha,C3068
+O100055,2025-09-21,Zeta Socks,Accessories,243.54,2,487.08,South,Carlos,C8281
+O100056,2024-12-13,Zeta Socks,Accessories,84.38,1,84.38,South,Bilal,C9750
+O100057,2025-02-03,Zeta Socks,Accessories,164.16,3,492.48,Central,Ehsan,C6520
+O100058,2025-09-25,Epsilon Jacket,Apparel,243.56,4,974.24,North,Dina,C7824
+O100059,2025-06-10,Iota Charger,Electronics,8.62,1,8.62,West,Carlos,C3066
+O100060,2025-10-12,Gamma Sneakers,Footwear,150.3,2,300.6,South,Ehsan,C2553
+O100061,2025-10-27,Epsilon Jacket,Apparel,119.55,1,119.55,South,Ayesha,C1287
+O100062,2025-10-15,Zeta Socks,Accessories,16.59,3,49.77,Central,Bilal,C5794
+O100063,2025-10-27,Iota Charger,Electronics,151.51,3,454.53,East,Ehsan,C9646
+O100064,2025-10-22,Eta Laptop Sleeve,Accessories,19.23,3,57.69,South,Dina,C4084
+O100065,2025-05-04,Delta Cap,Accessories,32.15,1,32.15,South,Carlos,C4796
+O100066,2025-04-13,Eta Laptop Sleeve,Accessories,53.42,1,53.42,North,Dina,C6986
+O100067,2025-05-11,Eta Laptop Sleeve,Accessories,46.6,1,46.6,East,Ayesha,C8539
+O100068,2025-11-25,Kappa Backpack,Accessories,164.64,1,164.64,Central,Ayesha,C5842
+O100069,2025-07-15,Beta T-shirt,Apparel,113.38,4,453.52,North,Ehsan,C6331
+O100070,2025-08-04,Gamma Sneakers,Footwear,24.05,1,24.05,West,Fatima,C8327
+O100071,2025-10-27,Kappa Backpack,Accessories,13.29,3,39.87,Central,Carlos,C6426
+O100072,2025-01-04,Kappa Backpack,Accessories,33.45,1,33.45,North,Carlos,C7274
+O100073,2025-02-16,Beta T-shirt,Apparel,172.4,2,344.8,South,Bilal,C7690
+O100074,2025-03-23,Delta Cap,Accessories,21.62,1,21.62,South,Ehsan,C4210
+O100075,2025-02-13,Gamma Sneakers,Footwear,47.67,3,143.01,West,Fatima,C9768
+O100076,2025-03-09,Alpha Hoodie,Apparel,9.46,3,28.38,East,Ehsan,C7862
+O100077,2025-11-18,Gamma Sneakers,Footwear,62.81,1,62.81,Central,Carlos,C4756
+O100078,2024-12-24,Beta T-shirt,Apparel,173.24,5,866.2,North,Bilal,C6908
+O100079,2025-06-28,Theta Watch,Electronics,26.95,1,26.95,West,Dina,C5328
+O100080,2025-01-25,Gamma Sneakers,Footwear,151.79,1,151.79,East,Ehsan,C2561
+O100081,2025-07-12,Delta Cap,Accessories,171.18,1,171.18,South,Ayesha,C3407
+O100082,2025-04-04,Alpha Hoodie,Apparel,40.09,1,40.09,South,Dina,C3466
+O100083,2025-09-26,Theta Watch,Electronics,207.01,3,621.03,South,Ayesha,C1067
+O100084,2025-01-05,Alpha Hoodie,Apparel,180.41,2,360.82,South,Dina,C6956
+O100085,2025-04-07,Theta Watch,Electronics,159.44,1,159.44,West,Ehsan,C3161
+O100086,2025-01-10,Beta T-shirt,Apparel,32.89,3,98.67,East,Bilal,C1803
+O100087,2025-02-26,Eta Laptop Sleeve,Accessories,53.5,1,53.5,South,Fatima,C8213
+O100088,2025-11-12,Epsilon Jacket,Apparel,106.16,1,106.16,North,Fatima,C8812
+O100089,2025-11-08,Delta Cap,Accessories,8.46,1,8.46,North,Ayesha,C3779
+O100090,2025-11-01,Zeta Socks,Accessories,181.14,1,181.14,East,Dina,C9158
+O100091,2025-06-04,Gamma Sneakers,Footwear,110.38,1,110.38,East,Bilal,C3787
+O100092,2025-10-25,Eta Laptop Sleeve,Accessories,174.53,4,698.12,North,Fatima,C6634
+O100093,2025-03-20,Eta Laptop Sleeve,Accessories,80.57,1,80.57,Central,Carlos,C4867
+O100094,2025-07-14,Iota Charger,Electronics,80.96,1,80.96,East,Fatima,C6160
+O100095,2025-03-13,Zeta Socks,Accessories,24.46,4,97.84,South,Fatima,C5586
+O100096,2025-01-01,Eta Laptop Sleeve,Accessories,205.57,1,205.57,West,Dina,C8801
+O100097,2025-09-27,Theta Watch,Electronics,84.18,2,168.36,South,Carlos,C6247
+O100098,2025-05-16,Gamma Sneakers,Footwear,100.97,2,201.94,South,Carlos,C9343
+O100099,2025-04-27,Theta Watch,Electronics,243.53,1,243.53,South,Ayesha,C5640
+O100100,2025-07-14,Beta T-shirt,Apparel,203.3,1,203.3,East,Dina,C4172
+O100101,2025-03-29,Theta Watch,Electronics,56.64,1,56.64,West,Carlos,C4869
+O100102,2025-11-29,Zeta Socks,Accessories,221.15,1,221.15,North,Ehsan,C3324
+O100103,2025-11-18,Epsilon Jacket,Apparel,235.31,1,235.31,South,Ayesha,C6795
+O100104,2025-01-01,Iota Charger,Electronics,220.9,2,441.8,South,Carlos,C4352
+O100105,2025-08-23,Kappa Backpack,Accessories,183.42,3,550.26,Central,Ehsan,C8039
+O100106,2024-12-17,Beta T-shirt,Apparel,229.05,1,229.05,Central,Ehsan,C9379
+O100107,2025-09-04,Alpha Hoodie,Apparel,43.35,1,43.35,East,Carlos,C4079
+O100108,2025-01-12,Zeta Socks,Accessories,213.13,3,639.39,West,Carlos,C1478
+O100109,2025-05-19,Beta T-shirt,Apparel,42.48,1,42.48,North,Bilal,C7560
+O100110,2025-09-22,Zeta Socks,Accessories,248.86,3,746.58,East,Ehsan,C7425
+O100111,2025-05-03,Delta Cap,Accessories,15.45,1,15.45,Central,Carlos,C4418
+O100112,2025-03-31,Epsilon Jacket,Apparel,54.31,3,162.93,West,Ehsan,C6187
+O100113,2025-08-07,Epsilon Jacket,Apparel,42.34,1,42.34,East,Ehsan,C2555
+O100114,2024-12-06,Eta Laptop Sleeve,Accessories,209.49,1,209.49,West,Dina,C1805
+O100115,2025-04-18,Gamma Sneakers,Footwear,166.73,3,500.19,Central,Carlos,C9499
+O100116,2024-12-12,Epsilon Jacket,Apparel,41.42,1,41.42,West,Carlos,C7040
+O100117,2025-11-29,Delta Cap,Accessories,219.37,2,438.74,South,Fatima,C5540
+O100118,2025-02-25,Alpha Hoodie,Apparel,230.49,3,691.47,South,Fatima,C2163
+O100119,2024-12-12,Delta Cap,Accessories,223.81,1,223.81,South,Ayesha,C5967
+O100120,2025-09-16,Iota Charger,Electronics,17.96,1,17.96,East,Bilal,C6295
+O100121,2025-01-15,Gamma Sneakers,Footwear,247.74,1,247.74,Central,Dina,C2719
+O100122,2025-11-09,Beta T-shirt,Apparel,139.46,1,139.46,Central,Ehsan,C1786
+O100123,2025-08-27,Epsilon Jacket,Apparel,78.95,1,78.95,East,Fatima,C6080
+O100124,2025-04-07,Iota Charger,Electronics,158.78,1,158.78,East,Ehsan,C8645
+O100125,2025-04-09,Zeta Socks,Accessories,20.02,1,20.02,Central,Fatima,C5545
+O100126,2025-11-02,Beta T-shirt,Apparel,87.81,1,87.81,North,Carlos,C1885
+O100127,2025-09-25,Gamma Sneakers,Footwear,61.37,1,61.37,West,Carlos,C7444
+O100128,2025-08-09,Delta Cap,Accessories,83.1,1,83.1,South,Dina,C4731
+O100129,2025-03-03,Beta T-shirt,Apparel,26.33,4,105.32,South,Ehsan,C8315
+O100130,2025-05-18,Theta Watch,Electronics,171.6,1,171.6,Central,Fatima,C5925
+O100131,2025-02-23,Gamma Sneakers,Footwear,43.89,1,43.89,South,Ehsan,C1908
+O100132,2025-01-04,Eta Laptop Sleeve,Accessories,83.15,1,83.15,West,Bilal,C9199
+O100133,2025-05-14,Kappa Backpack,Accessories,83.25,1,83.25,South,Bilal,C8149
+O100134,2025-07-18,Beta T-shirt,Apparel,175.19,1,175.19,Central,Ehsan,C4701
+O100135,2025-11-28,Theta Watch,Electronics,51.35,1,51.35,North,Bilal,C1712
+O100136,2025-10-26,Kappa Backpack,Accessories,229.26,2,458.52,Central,Bilal,C6373
+O100137,2025-02-06,Delta Cap,Accessories,86.51,3,259.53,Central,Ayesha,C8478
+O100138,2025-07-09,Gamma Sneakers,Footwear,82.75,1,82.75,East,Fatima,C6137
+O100139,2024-12-23,Alpha Hoodie,Apparel,247.78,1,247.78,South,Ehsan,C8313
+O100140,2025-06-09,Zeta Socks,Accessories,49.93,1,49.93,West,Ayesha,C7347
+O100141,2025-01-06,Alpha Hoodie,Apparel,48.99,3,146.97,East,Ayesha,C9679
+O100142,2025-03-31,Iota Charger,Electronics,117.23,3,351.69,East,Dina,C2867
+O100143,2025-09-21,Beta T-shirt,Apparel,140.84,3,422.52,Central,Carlos,C1924
+O100144,2025-06-04,Delta Cap,Accessories,230.63,1,230.63,West,Dina,C2818
+O100145,2025-02-28,Kappa Backpack,Accessories,35.93,2,71.86,West,Ehsan,C7869
+O100146,2025-02-12,Iota Charger,Electronics,218.73,1,218.73,North,Dina,C7355
+O100147,2025-07-03,Theta Watch,Electronics,195.02,1,195.02,North,Carlos,C1524
+O100148,2025-07-25,Beta T-shirt,Apparel,151.1,1,151.1,South,Ayesha,C3820
+O100149,2025-05-10,Theta Watch,Electronics,164.61,3,493.83,West,Bilal,C7552
+O100150,2025-07-09,Gamma Sneakers,Footwear,31.11,1,31.11,East,Dina,C8163
+O100151,2025-06-21,Eta Laptop Sleeve,Accessories,197.11,1,197.11,West,Ayesha,C9668
+O100152,2025-08-04,Eta Laptop Sleeve,Accessories,68.2,2,136.4,Central,Dina,C7493
+O100153,2025-01-10,Delta Cap,Accessories,186.8,5,934.0,West,Fatima,C7099
+O100154,2025-01-30,Theta Watch,Electronics,157.56,4,630.24,West,Carlos,C6932
+O100155,2025-07-23,Iota Charger,Electronics,186.59,1,186.59,Central,Carlos,C2942
+O100156,2025-08-29,Zeta Socks,Accessories,201.79,2,403.58,Central,Ayesha,C7515
+O100157,2025-10-05,Iota Charger,Electronics,149.6,3,448.8,Central,Bilal,C1778
+O100158,2024-12-30,Eta Laptop Sleeve,Accessories,196.56,1,196.56,West,Dina,C4644
+O100159,2025-11-07,Beta T-shirt,Apparel,177.35,3,532.05,South,Dina,C1311
+O100160,2025-02-09,Theta Watch,Electronics,31.11,1,31.11,South,Dina,C5179
+O100161,2025-04-17,Alpha Hoodie,Apparel,217.74,1,217.74,East,Bilal,C7894
+O100162,2025-09-11,Theta Watch,Electronics,144.43,1,144.43,South,Carlos,C3268
+O100163,2025-10-30,Alpha Hoodie,Apparel,115.68,2,231.36,Central,Ehsan,C9370
+O100164,2025-02-06,Epsilon Jacket,Apparel,18.59,2,37.18,Central,Bilal,C6548
+O100165,2025-04-13,Eta Laptop Sleeve,Accessories,65.57,3,196.71,West,Bilal,C9860
+O100166,2025-11-01,Gamma Sneakers,Footwear,174.6,1,174.6,West,Fatima,C4818
+O100167,2025-11-06,Theta Watch,Electronics,32.8,1,32.8,South,Ayesha,C9670
+O100168,2024-12-21,Epsilon Jacket,Apparel,60.35,4,241.4,East,Dina,C3390
+O100169,2025-09-24,Delta Cap,Accessories,71.8,2,143.6,South,Fatima,C3347
+O100170,2025-01-09,Epsilon Jacket,Apparel,174.02,1,174.02,North,Dina,C1641
+O100171,2025-04-13,Gamma Sneakers,Footwear,18.65,1,18.65,East,Carlos,C7419
+O100172,2025-07-13,Alpha Hoodie,Apparel,122.02,2,244.04,Central,Ehsan,C9689
+O100173,2025-02-10,Alpha Hoodie,Apparel,72.25,4,289.0,North,Fatima,C5141
+O100174,2025-11-19,Gamma Sneakers,Footwear,10.92,1,10.92,West,Ayesha,C6997
+O100175,2024-12-23,Eta Laptop Sleeve,Accessories,30.77,2,61.54,South,Fatima,C3458
+O100176,2024-12-06,Eta Laptop Sleeve,Accessories,156.45,5,782.25,West,Fatima,C2026
+O100177,2025-02-24,Epsilon Jacket,Apparel,124.23,1,124.23,West,Fatima,C4055
+O100178,2025-06-14,Beta T-shirt,Apparel,154.49,5,772.45,North,Ehsan,C2467
+O100179,2025-01-13,Eta Laptop Sleeve,Accessories,181.38,1,181.38,East,Fatima,C7268
+O100180,2025-09-20,Delta Cap,Accessories,246.97,3,740.91,East,Carlos,C8260
+O100181,2025-04-01,Theta Watch,Electronics,17.3,1,17.3,Central,Ayesha,C7146
+O100182,2025-03-16,Theta Watch,Electronics,129.47,1,129.47,Central,Carlos,C1968
+O100183,2025-07-30,Zeta Socks,Accessories,97.6,1,97.6,Central,Ehsan,C4257
+O100184,2025-06-25,Iota Charger,Electronics,167.57,2,335.14,North,Fatima,C5984
+O100185,2025-03-10,Alpha Hoodie,Apparel,226.82,1,226.82,West,Fatima,C1708
+O100186,2025-05-25,Eta Laptop Sleeve,Accessories,78.93,1,78.93,Central,Ayesha,C6801
+O100187,2025-03-24,Epsilon Jacket,Apparel,230.81,1,230.81,South,Bilal,C3007
+O100188,2025-03-27,Epsilon Jacket,Apparel,10.01,1,10.01,Central,Carlos,C9139
+O100189,2025-11-28,Delta Cap,Accessories,207.85,1,207.85,South,Carlos,C1459
+O100190,2025-03-05,Gamma Sneakers,Footwear,23.93,1,23.93,East,Carlos,C3627
+O100191,2025-02-20,Theta Watch,Electronics,237.74,1,237.74,East,Bilal,C7013
+O100192,2025-07-18,Alpha Hoodie,Apparel,143.59,1,143.59,East,Carlos,C4734
+O100193,2025-03-18,Zeta Socks,Accessories,235.33,1,235.33,Central,Bilal,C2360
+O100194,2025-10-27,Zeta Socks,Accessories,173.78,4,695.12,North,Dina,C2509
+O100195,2024-12-19,Alpha Hoodie,Apparel,243.49,1,243.49,North,Ayesha,C3779
+O100196,2025-08-09,Kappa Backpack,Accessories,162.81,1,162.81,Central,Carlos,C2323
+O100197,2025-07-31,Delta Cap,Accessories,107.98,1,107.98,West,Bilal,C3094
+O100198,2025-05-08,Kappa Backpack,Accessories,101.77,2,203.54,South,Bilal,C8427
+O100199,2025-08-04,Theta Watch,Electronics,202.31,1,202.31,Central,Fatima,C7289
+O100200,2025-05-11,Beta T-shirt,Apparel,122.4,2,244.8,Central,Bilal,C1448
+O100201,2025-01-27,Kappa Backpack,Accessories,96.81,1,96.81,East,Fatima,C5945
+O100202,2025-04-17,Gamma Sneakers,Footwear,199.47,1,199.47,North,Fatima,C3768
+O100203,2025-06-15,Alpha Hoodie,Apparel,153.98,1,153.98,South,Ayesha,C4028
+O100204,2025-06-01,Epsilon Jacket,Apparel,138.06,10,1380.6,West,Fatima,C5851
+O100205,2025-03-10,Theta Watch,Electronics,65.27,1,65.27,West,Fatima,C4199
+O100206,2025-07-18,Iota Charger,Electronics,225.93,1,225.93,Central,Fatima,C1108
+O100207,2025-02-14,Epsilon Jacket,Apparel,49.3,1,49.3,Central,Bilal,C6155
+O100208,2025-09-29,Zeta Socks,Accessories,18.52,1,18.52,North,Ayesha,C2978
+O100209,2025-01-16,Delta Cap,Accessories,148.9,10,1489.0,West,Fatima,C5479
+O100210,2025-02-05,Theta Watch,Electronics,136.73,1,136.73,East,Dina,C2599
+O100211,2025-05-30,Delta Cap,Accessories,66.8,1,66.8,East,Carlos,C2228
+O100212,2024-12-31,Beta T-shirt,Apparel,86.55,5,432.75,North,Carlos,C8887
+O100213,2025-01-30,Alpha Hoodie,Apparel,18.2,1,18.2,East,Fatima,C1393
+O100214,2025-01-10,Beta T-shirt,Apparel,133.47,1,133.47,West,Fatima,C6765
+O100215,2025-09-25,Zeta Socks,Accessories,119.16,1,119.16,West,Fatima,C6267
+O100216,2025-04-07,Iota Charger,Electronics,160.49,3,481.47,South,Ayesha,C8560
+O100217,2025-04-25,Gamma Sneakers,Footwear,165.77,1,165.77,Central,Carlos,C8979
+O100218,2025-10-09,Zeta Socks,Accessories,133.4,2,266.8,South,Fatima,C9528
+O100219,2025-11-01,Zeta Socks,Accessories,25.64,1,25.64,North,Fatima,C2040
+O100220,2024-12-10,Alpha Hoodie,Apparel,216.39,1,216.39,South,Ayesha,C4445
+O100221,2025-09-11,Delta Cap,Accessories,157.05,1,157.05,Central,Carlos,C9187
+O100222,2025-11-11,Epsilon Jacket,Apparel,146.52,1,146.52,West,Dina,C6006
+O100223,2025-03-13,Beta T-shirt,Apparel,159.9,1,159.9,Central,Ayesha,C1579
+O100224,2025-05-13,Beta T-shirt,Apparel,242.68,3,728.04,East,Bilal,C4204
+O100225,2025-05-17,Gamma Sneakers,Footwear,22.61,1,22.61,East,Ayesha,C9738
+O100226,2025-04-25,Beta T-shirt,Apparel,189.36,1,189.36,West,Ayesha,C5173
+O100227,2025-02-25,Alpha Hoodie,Apparel,148.41,1,148.41,North,Bilal,C1292
+O100228,2025-06-13,Gamma Sneakers,Footwear,226.45,1,226.45,North,Ayesha,C3421
+O100229,2025-10-31,Iota Charger,Electronics,146.68,1,146.68,Central,Fatima,C2485
+O100230,2025-05-26,Delta Cap,Accessories,88.55,2,177.1,East,Dina,C5717
+O100231,2025-04-02,Epsilon Jacket,Apparel,238.2,1,238.2,East,Ayesha,C7273
+O100232,2025-02-27,Kappa Backpack,Accessories,34.96,2,69.92,West,Fatima,C5635
+O100233,2025-08-25,Alpha Hoodie,Apparel,43.05,1,43.05,South,Dina,C8252
+O100234,2024-12-02,Gamma Sneakers,Footwear,35.59,1,35.59,North,Carlos,C4335
+O100235,2025-11-13,Delta Cap,Accessories,168.6,1,168.6,Central,Fatima,C8508
+O100236,2025-02-26,Epsilon Jacket,Apparel,154.36,1,154.36,South,Ehsan,C9690
+O100237,2025-06-30,Epsilon Jacket,Apparel,226.97,10,2269.7,South,Ehsan,C8102
+O100238,2025-11-05,Iota Charger,Electronics,126.28,3,378.84,East,Dina,C3777
+O100239,2025-02-01,Beta T-shirt,Apparel,11.84,1,11.84,East,Bilal,C4209
+O100240,2025-11-20,Beta T-shirt,Apparel,182.67,1,182.67,East,Ehsan,C4729
+O100241,2025-03-12,Beta T-shirt,Apparel,83.39,1,83.39,South,Ehsan,C5510
+O100242,2025-09-14,Delta Cap,Accessories,148.41,1,148.41,South,Carlos,C7608
+O100243,2024-12-04,Beta T-shirt,Apparel,155.61,1,155.61,South,Bilal,C5715
+O100244,2025-07-20,Delta Cap,Accessories,86.0,1,86.0,Central,Ehsan,C6495
+O100245,2025-10-10,Eta Laptop Sleeve,Accessories,126.48,2,252.96,Central,Ayesha,C7494
+O100246,2025-10-04,Zeta Socks,Accessories,183.41,1,183.41,South,Bilal,C2821
+O100247,2025-04-25,Kappa Backpack,Accessories,118.19,1,118.19,East,Ehsan,C9137
+O100248,2025-08-27,Delta Cap,Accessories,152.61,1,152.61,West,Dina,C3184
+O100249,2025-06-20,Iota Charger,Electronics,144.95,1,144.95,Central,Ehsan,C8932
+O100250,2024-12-02,Delta Cap,Accessories,126.65,1,126.65,East,Carlos,C8532
+O100251,2025-09-06,Gamma Sneakers,Footwear,202.8,4,811.2,South,Ayesha,C6814
+O100252,2025-07-10,Alpha Hoodie,Apparel,132.19,10,1321.9,Central,Ehsan,C7449
+O100253,2025-05-23,Theta Watch,Electronics,237.85,4,951.4,Central,Ehsan,C2909
+O100254,2025-09-24,Kappa Backpack,Accessories,163.7,4,654.8,South,Carlos,C8483
+O100255,2025-11-20,Iota Charger,Electronics,169.36,1,169.36,Central,Carlos,C4238
+O100256,2025-01-05,Gamma Sneakers,Footwear,201.24,1,201.24,West,Dina,C2965
+O100257,2025-09-25,Beta T-shirt,Apparel,19.63,2,39.26,South,Carlos,C9627
+O100258,2025-04-04,Iota Charger,Electronics,73.52,1,73.52,Central,Carlos,C4311
+O100259,2024-12-30,Epsilon Jacket,Apparel,229.36,10,2293.6,South,Ehsan,C6995
+O100260,2025-06-16,Epsilon Jacket,Apparel,159.15,2,318.3,South,Dina,C6169
+O100261,2025-05-12,Eta Laptop Sleeve,Accessories,186.08,1,186.08,East,Bilal,C3359
+O100262,2025-02-07,Alpha Hoodie,Apparel,13.87,1,13.87,West,Dina,C6560
+O100263,2025-11-28,Beta T-shirt,Apparel,169.62,1,169.62,East,Ayesha,C2109
+O100264,2024-12-23,Zeta Socks,Accessories,74.2,1,74.2,South,Fatima,C6907
+O100265,2025-11-24,Kappa Backpack,Accessories,233.48,1,233.48,North,Carlos,C1661
+O100266,2025-03-10,Theta Watch,Electronics,37.3,1,37.3,Central,Ehsan,C3684
+O100267,2025-06-30,Delta Cap,Accessories,222.78,1,222.78,East,Carlos,C5097
+O100268,2025-05-18,Delta Cap,Accessories,217.94,1,217.94,West,Ayesha,C7594
+O100269,2025-09-14,Delta Cap,Accessories,119.72,1,119.72,South,Carlos,C4646
+O100270,2025-03-07,Epsilon Jacket,Apparel,148.11,1,148.11,North,Fatima,C3046
+O100271,2025-06-06,Beta T-shirt,Apparel,98.99,1,98.99,East,Dina,C1158
+O100272,2024-12-07,Iota Charger,Electronics,41.48,1,41.48,South,Dina,C5623
+O100273,2025-08-02,Delta Cap,Accessories,225.2,1,225.2,East,Carlos,C6357
+O100274,2025-09-25,Delta Cap,Accessories,157.5,1,157.5,North,Bilal,C6233
+O100275,2025-11-18,Delta Cap,Accessories,26.5,3,79.5,East,Carlos,C4232
+O100276,2025-10-01,Epsilon Jacket,Apparel,29.35,1,29.35,South,Ayesha,C8551
+O100277,2025-08-08,Beta T-shirt,Apparel,163.86,1,163.86,North,Fatima,C5385
+O100278,2024-12-07,Zeta Socks,Accessories,54.44,1,54.44,Central,Fatima,C8740
+O100279,2025-11-18,Delta Cap,Accessories,38.26,3,114.78,South,Ehsan,C4571
+O100280,2025-02-27,Alpha Hoodie,Apparel,106.32,3,318.96,Central,Dina,C7977
+O100281,2025-01-24,Kappa Backpack,Accessories,242.95,1,242.95,Central,Ehsan,C1158
+O100282,2025-11-20,Iota Charger,Electronics,213.31,1,213.31,West,Carlos,C2323
+O100283,2025-02-22,Iota Charger,Electronics,108.59,1,108.59,South,Ayesha,C5855
+O100284,2025-04-21,Iota Charger,Electronics,165.56,1,165.56,Central,Ayesha,C9483
+O100285,2025-07-22,Kappa Backpack,Accessories,195.87,1,195.87,Central,Ehsan,C4031
+O100286,2025-02-10,Gamma Sneakers,Footwear,231.34,4,925.36,North,Carlos,C9631
+O100287,2025-08-12,Eta Laptop Sleeve,Accessories,221.53,1,221.53,West,Fatima,C1744
+O100288,2025-11-07,Eta Laptop Sleeve,Accessories,142.17,1,142.17,West,Ayesha,C6496
+O100289,2025-10-22,Epsilon Jacket,Apparel,189.34,1,189.34,Central,Ehsan,C6251
+O100290,2025-03-09,Iota Charger,Electronics,241.34,1,241.34,West,Dina,C4403
+O100291,2025-01-19,Gamma Sneakers,Footwear,16.81,1,16.81,North,Bilal,C6543
+O100292,2025-08-31,Gamma Sneakers,Footwear,114.17,2,228.34,West,Dina,C5167
+O100293,2024-12-27,Delta Cap,Accessories,158.37,5,791.85,South,Bilal,C1386
+O100294,2025-05-19,Kappa Backpack,Accessories,146.16,2,292.32,South,Dina,C8623
+O100295,2025-09-25,Beta T-shirt,Apparel,55.79,5,278.95,North,Ehsan,C7333
+O100296,2025-11-24,Delta Cap,Accessories,42.47,1,42.47,West,Ehsan,C3357
+O100297,2025-07-01,Eta Laptop Sleeve,Accessories,46.23,1,46.23,West,Dina,C1639
+O100298,2024-12-13,Delta Cap,Accessories,141.84,1,141.84,West,Fatima,C6502
+O100299,2025-08-10,Epsilon Jacket,Apparel,63.29,1,63.29,West,Fatima,C1364
+O100300,2025-09-24,Gamma Sneakers,Footwear,25.4,1,25.4,East,Ayesha,C1157
+O100301,2024-12-24,Kappa Backpack,Accessories,184.98,1,184.98,Central,Ehsan,C3458
+O100302,2025-04-19,Delta Cap,Accessories,66.64,1,66.64,Central,Ayesha,C6754
+O100303,2025-11-22,Kappa Backpack,Accessories,24.3,1,24.3,Central,Fatima,C9532
+O100304,2025-03-10,Alpha Hoodie,Apparel,238.86,3,716.58,South,Bilal,C2010
+O100305,2025-07-05,Eta Laptop Sleeve,Accessories,236.08,2,472.16,South,Bilal,C2164
+O100306,2025-07-08,Kappa Backpack,Accessories,215.33,2,430.66,West,Fatima,C4041
+O100307,2025-06-02,Gamma Sneakers,Footwear,176.84,1,176.84,Central,Dina,C8724
+O100308,2025-06-27,Zeta Socks,Accessories,94.94,1,94.94,South,Fatima,C6332
+O100309,2025-10-15,Alpha Hoodie,Apparel,167.5,2,335.0,Central,Ehsan,C8501
+O100310,2025-02-06,Iota Charger,Electronics,99.71,1,99.71,Central,Fatima,C4227
+O100311,2025-10-06,Zeta Socks,Accessories,178.05,2,356.1,North,Ayesha,C1866
+O100312,2025-05-06,Theta Watch,Electronics,177.36,1,177.36,West,Carlos,C6984
+O100313,2025-01-24,Alpha Hoodie,Apparel,213.98,1,213.98,South,Carlos,C5974
+O100314,2025-09-04,Gamma Sneakers,Footwear,87.13,1,87.13,Central,Carlos,C8962
+O100315,2025-03-02,Epsilon Jacket,Apparel,126.53,4,506.12,North,Bilal,C5333
+O100316,2025-09-07,Alpha Hoodie,Apparel,84.11,2,168.22,Central,Fatima,C4585
+O100317,2025-06-07,Delta Cap,Accessories,124.17,1,124.17,North,Ehsan,C9843
+O100318,2025-02-18,Gamma Sneakers,Footwear,103.69,1,103.69,East,Dina,C8865
+O100319,2025-03-19,Beta T-shirt,Apparel,89.53,1,89.53,West,Dina,C7337
+O100320,2025-08-04,Iota Charger,Electronics,23.89,1,23.89,North,Ayesha,C8219
+O100321,2025-03-31,Alpha Hoodie,Apparel,119.1,1,119.1,West,Carlos,C6901
+O100322,2025-09-05,Alpha Hoodie,Apparel,214.15,1,214.15,Central,Dina,C6247
+O100323,2025-11-07,Alpha Hoodie,Apparel,246.06,3,738.18,West,Dina,C6346
+O100324,2025-04-16,Iota Charger,Electronics,53.57,1,53.57,South,Bilal,C4715
+O100325,2024-12-25,Eta Laptop Sleeve,Accessories,21.61,3,64.83,East,Carlos,C4412
+O100326,2025-05-23,Delta Cap,Accessories,78.24,5,391.2,Central,Ayesha,C7677
+O100327,2025-03-10,Gamma Sneakers,Footwear,70.88,3,212.64,Central,Bilal,C4754
+O100328,2025-02-01,Eta Laptop Sleeve,Accessories,99.28,1,99.28,East,Ehsan,C1156
+O100329,2025-03-29,Alpha Hoodie,Apparel,128.64,1,128.64,South,Ehsan,C3247
+O100330,2025-04-11,Delta Cap,Accessories,244.33,3,732.99,West,Fatima,C4957
+O100331,2025-09-21,Epsilon Jacket,Apparel,39.11,1,39.11,Central,Ayesha,C1635
+O100332,2025-05-20,Gamma Sneakers,Footwear,105.84,1,105.84,Central,Bilal,C5985
+O100333,2025-04-08,Kappa Backpack,Accessories,186.6,3,559.8,North,Fatima,C6912
+O100334,2025-06-03,Zeta Socks,Accessories,213.01,1,213.01,North,Ayesha,C8733
+O100335,2024-12-08,Beta T-shirt,Apparel,63.42,1,63.42,South,Ehsan,C4656
+O100336,2025-07-16,Zeta Socks,Accessories,16.43,1,16.43,South,Dina,C4441
+O100337,2025-04-02,Kappa Backpack,Accessories,154.74,1,154.74,South,Ehsan,C1758
+O100338,2025-08-20,Delta Cap,Accessories,29.52,1,29.52,North,Carlos,C1678
+O100339,2025-07-01,Iota Charger,Electronics,143.8,1,143.8,West,Bilal,C5830
+O100340,2025-09-19,Epsilon Jacket,Apparel,26.81,1,26.81,Central,Dina,C2529
+O100341,2025-05-19,Kappa Backpack,Accessories,230.03,1,230.03,East,Ehsan,C8259
+O100342,2025-05-05,Epsilon Jacket,Apparel,61.38,1,61.38,East,Ehsan,C2458
+O100343,2025-01-28,Kappa Backpack,Accessories,21.33,1,21.33,West,Bilal,C3784
+O100344,2025-11-18,Alpha Hoodie,Apparel,146.19,1,146.19,North,Bilal,C2237
+O100345,2025-05-23,Eta Laptop Sleeve,Accessories,232.81,1,232.81,Central,Fatima,C8258
+O100346,2025-06-07,Delta Cap,Accessories,153.88,1,153.88,East,Ayesha,C1689
+O100347,2025-11-15,Eta Laptop Sleeve,Accessories,62.4,2,124.8,South,Ayesha,C3997
+O100348,2025-01-27,Delta Cap,Accessories,47.38,1,47.38,East,Ayesha,C2283
+O100349,2025-01-20,Epsilon Jacket,Apparel,175.59,2,351.18,South,Dina,C8673
+O100350,2025-11-26,Beta T-shirt,Apparel,37.41,1,37.41,North,Dina,C5114
+O100351,2025-01-09,Zeta Socks,Accessories,132.0,4,528.0,Central,Ayesha,C4697
+O100352,2025-03-09,Iota Charger,Electronics,155.95,1,155.95,Central,Fatima,C8953
+O100353,2024-12-12,Eta Laptop Sleeve,Accessories,20.5,1,20.5,Central,Dina,C1396
+O100354,2025-03-17,Beta T-shirt,Apparel,64.22,1,64.22,North,Dina,C9780
+O100355,2025-05-16,Kappa Backpack,Accessories,80.43,2,160.86,North,Dina,C2996
+O100356,2025-05-08,Kappa Backpack,Accessories,204.54,1,204.54,South,Bilal,C6505
+O100357,2025-10-12,Gamma Sneakers,Footwear,111.37,3,334.11,North,Bilal,C9625
+O100358,2025-07-06,Alpha Hoodie,Apparel,88.8,1,88.8,West,Ayesha,C1700
+O100359,2025-10-27,Beta T-shirt,Apparel,47.05,2,94.1,South,Ehsan,C5791
+O100360,2025-07-11,Delta Cap,Accessories,228.35,3,685.05,South,Dina,C3423
+O100361,2025-03-10,Beta T-shirt,Apparel,78.37,1,78.37,Central,Ehsan,C4145
+O100362,2024-12-22,Theta Watch,Electronics,18.61,1,18.61,East,Dina,C5540
+O100363,2025-03-23,Beta T-shirt,Apparel,201.72,2,403.44,South,Bilal,C4755
+O100364,2025-10-11,Kappa Backpack,Accessories,189.73,2,379.46,West,Fatima,C8537
+O100365,2024-12-21,Kappa Backpack,Accessories,114.72,1,114.72,West,Dina,C7442
+O100366,2025-05-26,Eta Laptop Sleeve,Accessories,68.4,1,68.4,South,Dina,C2625
+O100367,2025-08-23,Epsilon Jacket,Apparel,116.49,1,116.49,North,Dina,C4137
+O100368,2025-05-17,Zeta Socks,Accessories,135.86,1,135.86,South,Ayesha,C4516
+O100369,2025-01-25,Eta Laptop Sleeve,Accessories,115.33,1,115.33,Central,Fatima,C7618
+O100370,2025-03-15,Epsilon Jacket,Apparel,171.45,1,171.45,North,Carlos,C5614
+O100371,2025-07-05,Alpha Hoodie,Apparel,111.5,4,446.0,Central,Carlos,C5437
+O100372,2025-08-22,Eta Laptop Sleeve,Accessories,27.5,1,27.5,South,Dina,C9696
+O100373,2025-11-22,Beta T-shirt,Apparel,242.49,1,242.49,South,Carlos,C9729
+O100374,2025-06-15,Zeta Socks,Accessories,58.71,4,234.84,South,Ayesha,C5665
+O100375,2024-12-29,Gamma Sneakers,Footwear,196.38,1,196.38,North,Dina,C3057
+O100376,2025-07-02,Delta Cap,Accessories,165.3,1,165.3,Central,Carlos,C9364
+O100377,2025-05-07,Gamma Sneakers,Footwear,47.76,1,47.76,Central,Dina,C1716
+O100378,2025-07-09,Gamma Sneakers,Footwear,193.81,1,193.81,South,Dina,C6071
+O100379,2025-03-01,Alpha Hoodie,Apparel,18.84,1,18.84,North,Dina,C1332
+O100380,2024-12-13,Gamma Sneakers,Footwear,221.24,5,1106.2,South,Ehsan,C6373
+O100381,2025-04-05,Zeta Socks,Accessories,237.22,3,711.66,West,Fatima,C2805
+O100382,2024-12-01,Alpha Hoodie,Apparel,190.54,1,190.54,Central,Ayesha,C3160
+O100383,2025-05-22,Kappa Backpack,Accessories,105.55,2,211.1,West,Ehsan,C2194
+O100384,2024-12-24,Epsilon Jacket,Apparel,26.93,1,26.93,South,Bilal,C5654
+O100385,2025-04-06,Theta Watch,Electronics,25.68,1,25.68,Central,Carlos,C7942
+O100386,2025-05-08,Theta Watch,Electronics,12.38,1,12.38,Central,Ayesha,C8891
+O100387,2025-10-07,Epsilon Jacket,Apparel,128.28,1,128.28,West,Fatima,C8239
+O100388,2025-01-03,Epsilon Jacket,Apparel,28.41,1,28.41,South,Bilal,C3984
+O100389,2025-06-17,Eta Laptop Sleeve,Accessories,72.35,4,289.4,North,Carlos,C1805
+O100390,2025-07-02,Epsilon Jacket,Apparel,81.16,4,324.64,West,Fatima,C9744
+O100391,2025-06-07,Kappa Backpack,Accessories,94.98,1,94.98,West,Ayesha,C3827
+O100392,2025-01-15,Iota Charger,Electronics,175.52,1,175.52,West,Ehsan,C2725
+O100393,2025-11-16,Iota Charger,Electronics,188.57,1,188.57,North,Dina,C5933
+O100394,2025-02-04,Epsilon Jacket,Apparel,153.42,3,460.26,Central,Ayesha,C3536
+O100395,2025-05-26,Eta Laptop Sleeve,Accessories,143.92,1,143.92,North,Ayesha,C9075
+O100396,2024-12-17,Delta Cap,Accessories,26.83,1,26.83,West,Carlos,C5808
+O100397,2025-05-03,Alpha Hoodie,Apparel,82.6,4,330.4,Central,Dina,C4746
+O100398,2025-11-18,Gamma Sneakers,Footwear,183.39,2,366.78,East,Dina,C8816
+O100399,2025-05-13,Alpha Hoodie,Apparel,23.26,1,23.26,South,Carlos,C9124
+O100400,2025-03-20,Gamma Sneakers,Footwear,163.52,2,327.04,West,Carlos,C8741
+O100401,2025-11-14,Kappa Backpack,Accessories,244.6,1,244.6,East,Ayesha,C8135
+O100402,2025-05-13,Kappa Backpack,Accessories,187.31,5,936.55,East,Ayesha,C7038
+O100403,2025-03-08,Theta Watch,Electronics,17.15,1,17.15,Central,Bilal,C7231
+O100404,2025-08-25,Iota Charger,Electronics,157.3,4,629.2,North,Dina,C5062
+O100405,2025-09-05,Alpha Hoodie,Apparel,115.64,1,115.64,Central,Fatima,C5182
+O100406,2025-03-04,Theta Watch,Electronics,228.93,1,228.93,Central,Carlos,C2947
+O100407,2025-09-16,Alpha Hoodie,Apparel,164.73,1,164.73,South,Ehsan,C9655
+O100408,2025-04-27,Theta Watch,Electronics,32.7,1,32.7,Central,Bilal,C6447
+O100409,2024-12-16,Zeta Socks,Accessories,75.13,1,75.13,West,Fatima,C5813
+O100410,2025-11-30,Theta Watch,Electronics,189.84,1,189.84,Central,Carlos,C5842
+O100411,2024-12-06,Kappa Backpack,Accessories,160.32,1,160.32,West,Bilal,C3027
+O100412,2025-01-02,Zeta Socks,Accessories,12.76,1,12.76,North,Dina,C7554
+O100413,2025-02-01,Eta Laptop Sleeve,Accessories,180.32,1,180.32,West,Dina,C6658
+O100414,2025-05-27,Beta T-shirt,Apparel,199.66,1,199.66,North,Ehsan,C9243
+O100415,2025-09-05,Delta Cap,Accessories,139.12,1,139.12,South,Ayesha,C4524
+O100416,2025-11-12,Iota Charger,Electronics,198.17,1,198.17,West,Bilal,C8501
+O100417,2025-01-12,Zeta Socks,Accessories,144.18,3,432.54,East,Fatima,C1013
+O100418,2025-05-13,Kappa Backpack,Accessories,47.13,2,94.26,West,Bilal,C7127
+O100419,2025-01-26,Theta Watch,Electronics,51.51,2,103.02,West,Carlos,C4948
+O100420,2025-01-04,Zeta Socks,Accessories,200.82,1,200.82,South,Ehsan,C3746
+O100421,2025-08-01,Delta Cap,Accessories,132.14,5,660.7,West,Dina,C1659
+O100422,2025-07-30,Epsilon Jacket,Apparel,92.84,1,92.84,South,Fatima,C6419
+O100423,2025-03-31,Eta Laptop Sleeve,Accessories,169.74,1,169.74,North,Ehsan,C7062
+O100424,2025-01-18,Eta Laptop Sleeve,Accessories,74.61,1,74.61,South,Carlos,C9319
+O100425,2025-05-05,Delta Cap,Accessories,115.56,1,115.56,South,Dina,C1634
+O100426,2025-09-12,Gamma Sneakers,Footwear,216.87,1,216.87,West,Bilal,C3046
+O100427,2025-10-02,Beta T-shirt,Apparel,15.59,3,46.77,Central,Carlos,C7797
+O100428,2025-01-11,Iota Charger,Electronics,186.68,1,186.68,Central,Ehsan,C5854
+O100429,2025-01-04,Eta Laptop Sleeve,Accessories,79.92,1,79.92,West,Dina,C5073
+O100430,2025-04-10,Iota Charger,Electronics,169.95,1,169.95,South,Ehsan,C8535
+O100431,2025-02-05,Beta T-shirt,Apparel,241.5,1,241.5,South,Ehsan,C4822
+O100432,2025-08-13,Eta Laptop Sleeve,Accessories,55.25,1,55.25,North,Ayesha,C1666
+O100433,2025-01-10,Zeta Socks,Accessories,137.63,1,137.63,West,Ayesha,C4560
+O100434,2025-07-24,Kappa Backpack,Accessories,23.49,3,70.47,Central,Carlos,C8922
+O100435,2025-04-21,Theta Watch,Electronics,89.89,1,89.89,Central,Ehsan,C4045
+O100436,2024-12-13,Gamma Sneakers,Footwear,101.94,1,101.94,Central,Ehsan,C6008
+O100437,2025-04-29,Eta Laptop Sleeve,Accessories,248.58,1,248.58,North,Fatima,C5233
+O100438,2025-03-05,Eta Laptop Sleeve,Accessories,145.97,2,291.94,East,Dina,C2856
+O100439,2025-05-09,Eta Laptop Sleeve,Accessories,230.5,1,230.5,South,Bilal,C6369
+O100440,2025-08-11,Kappa Backpack,Accessories,83.42,1,83.42,North,Dina,C7302
+O100441,2025-02-12,Eta Laptop Sleeve,Accessories,69.96,1,69.96,South,Ehsan,C9384
+O100442,2025-03-17,Alpha Hoodie,Apparel,228.06,1,228.06,East,Bilal,C6938
+O100443,2024-12-02,Theta Watch,Electronics,59.99,1,59.99,Central,Bilal,C2903
+O100444,2025-01-21,Epsilon Jacket,Apparel,176.88,1,176.88,East,Carlos,C1357
+O100445,2025-05-08,Theta Watch,Electronics,92.26,1,92.26,Central,Bilal,C3125
+O100446,2025-02-04,Theta Watch,Electronics,243.83,2,487.66,North,Ehsan,C9748
+O100447,2025-07-18,Eta Laptop Sleeve,Accessories,22.02,1,22.02,North,Ayesha,C6144
+O100448,2025-11-20,Epsilon Jacket,Apparel,151.06,2,302.12,Central,Bilal,C2907
+O100449,2025-04-01,Beta T-shirt,Apparel,248.75,1,248.75,West,Bilal,C3182
+O100450,2025-09-21,Gamma Sneakers,Footwear,233.05,2,466.1,West,Dina,C8793
+O100451,2025-06-18,Delta Cap,Accessories,54.01,1,54.01,North,Bilal,C5915
+O100452,2025-02-28,Theta Watch,Electronics,107.74,3,323.22,South,Bilal,C4309
+O100453,2025-04-17,Iota Charger,Electronics,19.5,1,19.5,North,Ayesha,C7711
+O100454,2025-06-24,Delta Cap,Accessories,18.92,1,18.92,East,Ayesha,C1226
+O100455,2025-08-16,Theta Watch,Electronics,143.73,2,287.46,East,Ehsan,C6518
+O100456,2025-09-26,Eta Laptop Sleeve,Accessories,153.78,3,461.34,West,Dina,C8032
+O100457,2025-10-09,Iota Charger,Electronics,8.08,1,8.08,North,Carlos,C7725
+O100458,2025-11-01,Epsilon Jacket,Apparel,220.56,1,220.56,Central,Carlos,C3765
+O100459,2025-06-14,Theta Watch,Electronics,84.62,1,84.62,Central,Ehsan,C8582
+O100460,2025-11-17,Beta T-shirt,Apparel,77.93,1,77.93,Central,Fatima,C1388
+O100461,2025-10-11,Kappa Backpack,Accessories,142.13,10,1421.3,North,Ehsan,C6568
+O100462,2025-03-04,Alpha Hoodie,Apparel,151.78,1,151.78,South,Carlos,C3263
+O100463,2025-06-30,Zeta Socks,Accessories,248.65,1,248.65,West,Fatima,C8814
+O100464,2024-12-16,Delta Cap,Accessories,10.75,1,10.75,West,Bilal,C9088
+O100465,2025-06-24,Zeta Socks,Accessories,206.62,1,206.62,Central,Dina,C8692
+O100466,2025-11-14,Beta T-shirt,Apparel,32.17,2,64.34,South,Ehsan,C9488
+O100467,2025-01-24,Theta Watch,Electronics,61.09,1,61.09,Central,Carlos,C5590
+O100468,2025-03-16,Beta T-shirt,Apparel,248.59,1,248.59,East,Carlos,C6824
+O100469,2025-09-16,Eta Laptop Sleeve,Accessories,18.72,1,18.72,East,Dina,C4621
+O100470,2025-07-21,Epsilon Jacket,Apparel,60.26,1,60.26,Central,Ayesha,C9739
+O100471,2025-10-09,Iota Charger,Electronics,201.87,10,2018.7,South,Ayesha,C9550
+O100472,2025-10-11,Theta Watch,Electronics,109.15,1,109.15,East,Fatima,C1650
+O100473,2025-10-04,Delta Cap,Accessories,195.21,3,585.63,East,Fatima,C9259
+O100474,2024-12-16,Eta Laptop Sleeve,Accessories,216.39,1,216.39,South,Bilal,C9544
+O100475,2025-09-03,Iota Charger,Electronics,222.29,1,222.29,East,Bilal,C2549
+O100476,2024-12-05,Kappa Backpack,Accessories,240.11,2,480.22,North,Ehsan,C6985
+O100477,2025-09-16,Theta Watch,Electronics,75.77,1,75.77,Central,Fatima,C7103
+O100478,2025-06-25,Delta Cap,Accessories,51.0,1,51.0,South,Fatima,C1288
+O100479,2025-01-25,Eta Laptop Sleeve,Accessories,76.6,1,76.6,West,Ehsan,C8569
+O100480,2025-08-28,Beta T-shirt,Apparel,241.93,1,241.93,East,Dina,C3628
+O100481,2025-01-29,Delta Cap,Accessories,68.79,1,68.79,North,Ayesha,C5028
+O100482,2025-08-24,Theta Watch,Electronics,43.22,1,43.22,East,Dina,C4527
+O100483,2025-02-14,Gamma Sneakers,Footwear,218.98,1,218.98,South,Carlos,C7982
+O100484,2025-08-19,Alpha Hoodie,Apparel,106.1,1,106.1,Central,Bilal,C9170
+O100485,2025-01-23,Gamma Sneakers,Footwear,64.83,1,64.83,South,Ehsan,C2675
+O100486,2025-11-19,Gamma Sneakers,Footwear,85.42,3,256.26,North,Dina,C4326
+O100487,2024-12-13,Gamma Sneakers,Footwear,231.3,1,231.3,East,Fatima,C2330
+O100488,2025-03-17,Beta T-shirt,Apparel,227.18,1,227.18,East,Carlos,C7607
+O100489,2025-06-03,Zeta Socks,Accessories,192.85,1,192.85,East,Fatima,C9745
+O100490,2025-10-07,Alpha Hoodie,Apparel,13.94,1,13.94,Central,Carlos,C8486
+O100491,2025-02-21,Theta Watch,Electronics,141.66,1,141.66,East,Fatima,C3434
+O100492,2025-09-09,Epsilon Jacket,Apparel,64.08,1,64.08,East,Carlos,C1936
+O100493,2025-01-08,Gamma Sneakers,Footwear,172.85,1,172.85,West,Bilal,C2972
+O100494,2025-09-23,Alpha Hoodie,Apparel,172.33,1,172.33,West,Ehsan,C2533
+O100495,2025-10-11,Epsilon Jacket,Apparel,107.29,4,429.16,North,Dina,C5386
+O100496,2025-06-25,Zeta Socks,Accessories,115.52,1,115.52,West,Carlos,C8158
+O100497,2025-11-19,Beta T-shirt,Apparel,37.84,10,378.4,Central,Dina,C6941
+O100498,2025-07-16,Gamma Sneakers,Footwear,200.93,2,401.86,Central,Ehsan,C6618
+O100499,2025-08-22,Kappa Backpack,Accessories,39.26,1,39.26,South,Ehsan,C1728
+O100500,2025-01-27,Kappa Backpack,Accessories,194.37,1,194.37,West,Ayesha,C4195
+O100501,2025-01-07,Delta Cap,Accessories,246.62,3,739.86,North,Carlos,C9842
+O100502,2024-12-29,Zeta Socks,Accessories,95.04,5,475.2,East,Fatima,C5801
+O100503,2025-08-01,Delta Cap,Accessories,216.11,1,216.11,Central,Carlos,C9036
+O100504,2025-07-26,Epsilon Jacket,Apparel,188.85,2,377.7,South,Fatima,C7957
+O100505,2025-04-29,Theta Watch,Electronics,239.4,1,239.4,West,Bilal,C4185
+O100506,2025-10-21,Alpha Hoodie,Apparel,202.88,2,405.76,West,Fatima,C1674
+O100507,2025-04-02,Theta Watch,Electronics,239.13,1,239.13,Central,Fatima,C2454
+O100508,2025-10-22,Zeta Socks,Accessories,149.38,3,448.14,East,Carlos,C9147
+O100509,2025-06-15,Zeta Socks,Accessories,242.03,1,242.03,East,Dina,C2289
+O100510,2025-10-04,Epsilon Jacket,Apparel,161.1,3,483.3,East,Dina,C3019
+O100511,2025-03-05,Iota Charger,Electronics,17.39,1,17.39,East,Dina,C1850
+O100512,2025-06-14,Eta Laptop Sleeve,Accessories,79.54,1,79.54,East,Ayesha,C6165
+O100513,2025-01-11,Epsilon Jacket,Apparel,225.56,1,225.56,Central,Ayesha,C2102
+O100514,2025-01-19,Kappa Backpack,Accessories,235.78,1,235.78,Central,Fatima,C1316
+O100515,2025-02-13,Gamma Sneakers,Footwear,163.63,1,163.63,Central,Dina,C7792
+O100516,2025-08-20,Theta Watch,Electronics,25.77,1,25.77,North,Bilal,C6228
+O100517,2025-07-23,Theta Watch,Electronics,109.63,1,109.63,West,Ayesha,C7396
+O100518,2025-11-09,Delta Cap,Accessories,242.51,1,242.51,East,Ehsan,C3257
+O100519,2025-09-16,Theta Watch,Electronics,137.63,1,137.63,South,Fatima,C7342
+O100520,2025-05-17,Theta Watch,Electronics,228.86,1,228.86,Central,Dina,C3893
+O100521,2025-03-15,Gamma Sneakers,Footwear,12.52,1,12.52,South,Carlos,C5663
+O100522,2025-04-24,Gamma Sneakers,Footwear,229.95,2,459.9,West,Ehsan,C8199
+O100523,2024-12-22,Beta T-shirt,Apparel,111.5,5,557.5,East,Ayesha,C2109
+O100524,2025-04-20,Beta T-shirt,Apparel,246.31,1,246.31,East,Carlos,C3028
+O100525,2025-07-19,Delta Cap,Accessories,16.68,1,16.68,Central,Dina,C8717
+O100526,2025-06-03,Gamma Sneakers,Footwear,204.12,3,612.36,Central,Ayesha,C1447
+O100527,2025-02-11,Iota Charger,Electronics,104.73,5,523.65,North,Bilal,C5523
+O100528,2025-07-08,Beta T-shirt,Apparel,147.11,1,147.11,Central,Dina,C4694
+O100529,2025-07-29,Theta Watch,Electronics,161.56,1,161.56,East,Ayesha,C6976
+O100530,2025-04-23,Delta Cap,Accessories,62.65,3,187.95,West,Bilal,C2037
+O100531,2025-10-12,Gamma Sneakers,Footwear,56.12,2,112.24,North,Bilal,C6251
+O100532,2025-03-12,Alpha Hoodie,Apparel,237.63,1,237.63,North,Dina,C5412
+O100533,2024-12-15,Kappa Backpack,Accessories,45.56,2,91.12,West,Ayesha,C1621
+O100534,2025-05-10,Kappa Backpack,Accessories,236.61,3,709.83,Central,Fatima,C6947
+O100535,2025-09-06,Zeta Socks,Accessories,47.18,1,47.18,Central,Ayesha,C6896
+O100536,2024-12-13,Zeta Socks,Accessories,128.9,1,128.9,North,Carlos,C7510
+O100537,2024-12-31,Kappa Backpack,Accessories,237.28,1,237.28,East,Carlos,C9649
+O100538,2025-09-04,Iota Charger,Electronics,172.67,2,345.34,East,Ehsan,C7362
+O100539,2025-09-26,Alpha Hoodie,Apparel,151.85,1,151.85,South,Ehsan,C7966
+O100540,2025-08-25,Theta Watch,Electronics,79.29,1,79.29,Central,Ayesha,C3714
+O100541,2025-03-08,Eta Laptop Sleeve,Accessories,214.78,1,214.78,West,Dina,C8448
+O100542,2025-09-20,Iota Charger,Electronics,234.48,1,234.48,South,Carlos,C5710
+O100543,2025-11-25,Kappa Backpack,Accessories,126.2,2,252.4,South,Ehsan,C6532
+O100544,2025-05-02,Zeta Socks,Accessories,23.16,2,46.32,Central,Dina,C6236
+O100545,2025-11-19,Iota Charger,Electronics,34.46,1,34.46,Central,Carlos,C7199
+O100546,2025-01-09,Epsilon Jacket,Apparel,63.92,1,63.92,South,Bilal,C2475
+O100547,2025-09-26,Beta T-shirt,Apparel,54.33,3,162.99,East,Dina,C4089
+O100548,2025-07-18,Epsilon Jacket,Apparel,213.46,1,213.46,Central,Dina,C4149
+O100549,2025-08-19,Gamma Sneakers,Footwear,10.86,1,10.86,Central,Ayesha,C6017
+O100550,2025-05-06,Alpha Hoodie,Apparel,114.27,3,342.81,West,Ehsan,C6032
+O100551,2024-12-09,Zeta Socks,Accessories,157.64,4,630.56,North,Dina,C1580
+O100552,2025-06-15,Beta T-shirt,Apparel,14.2,1,14.2,South,Carlos,C8431
+O100553,2025-10-06,Zeta Socks,Accessories,236.17,2,472.34,East,Ayesha,C3865
+O100554,2025-05-19,Delta Cap,Accessories,233.64,4,934.56,Central,Ayesha,C2910
+O100555,2025-10-13,Eta Laptop Sleeve,Accessories,19.13,1,19.13,Central,Bilal,C3114
+O100556,2025-05-25,Kappa Backpack,Accessories,66.63,1,66.63,North,Ayesha,C7496
+O100557,2025-11-10,Eta Laptop Sleeve,Accessories,242.04,1,242.04,North,Bilal,C2658
+O100558,2025-05-03,Epsilon Jacket,Apparel,153.4,1,153.4,South,Fatima,C2063
+O100559,2025-06-02,Beta T-shirt,Apparel,29.79,1,29.79,Central,Ehsan,C4786
+O100560,2025-07-20,Delta Cap,Accessories,52.81,1,52.81,North,Fatima,C9359
+O100561,2025-01-25,Theta Watch,Electronics,171.94,1,171.94,Central,Bilal,C1183
+O100562,2025-01-08,Alpha Hoodie,Apparel,231.79,2,463.58,North,Bilal,C1650
+O100563,2025-09-11,Epsilon Jacket,Apparel,192.65,2,385.3,North,Bilal,C5962
+O100564,2025-03-05,Iota Charger,Electronics,222.16,1,222.16,South,Fatima,C1576
+O100565,2025-09-20,Theta Watch,Electronics,179.61,4,718.44,South,Dina,C4603
+O100566,2025-02-04,Kappa Backpack,Accessories,199.54,1,199.54,East,Dina,C4848
+O100567,2025-06-06,Zeta Socks,Accessories,53.91,1,53.91,South,Carlos,C1350
+O100568,2025-02-20,Beta T-shirt,Apparel,198.85,3,596.55,East,Fatima,C9477
+O100569,2025-11-04,Delta Cap,Accessories,15.27,2,30.54,East,Ayesha,C8983
+O100570,2025-01-12,Gamma Sneakers,Footwear,223.14,1,223.14,North,Bilal,C6481
+O100571,2025-03-17,Beta T-shirt,Apparel,225.19,1,225.19,Central,Ayesha,C2484
+O100572,2024-12-27,Zeta Socks,Accessories,200.48,1,200.48,East,Dina,C9971
+O100573,2025-01-02,Zeta Socks,Accessories,102.83,1,102.83,North,Ayesha,C2224
+O100574,2025-07-11,Alpha Hoodie,Apparel,28.23,1,28.23,Central,Fatima,C4075
+O100575,2025-11-19,Zeta Socks,Accessories,148.45,1,148.45,North,Bilal,C8176
+O100576,2025-01-17,Alpha Hoodie,Apparel,25.93,1,25.93,West,Ehsan,C6447
+O100577,2025-02-11,Alpha Hoodie,Apparel,78.17,3,234.51,Central,Ehsan,C1532
+O100578,2025-06-23,Zeta Socks,Accessories,53.19,1,53.19,West,Ehsan,C2154
+O100579,2025-04-13,Iota Charger,Electronics,201.29,1,201.29,North,Dina,C7250
+O100580,2025-09-18,Theta Watch,Electronics,51.13,1,51.13,East,Fatima,C3393
+O100581,2025-07-14,Delta Cap,Accessories,139.64,1,139.64,North,Bilal,C4331
+O100582,2025-07-30,Beta T-shirt,Apparel,116.03,1,116.03,West,Fatima,C7167
+O100583,2025-03-25,Kappa Backpack,Accessories,175.26,1,175.26,West,Ehsan,C4439
+O100584,2025-10-29,Gamma Sneakers,Footwear,92.03,1,92.03,West,Fatima,C7238
+O100585,2025-05-25,Eta Laptop Sleeve,Accessories,59.85,1,59.85,South,Bilal,C2824
+O100586,2025-03-13,Gamma Sneakers,Footwear,156.43,1,156.43,Central,Bilal,C9501
+O100587,2025-02-24,Gamma Sneakers,Footwear,83.38,1,83.38,Central,Fatima,C7677
+O100588,2025-09-18,Delta Cap,Accessories,60.67,1,60.67,East,Ayesha,C1382
+O100589,2025-04-02,Epsilon Jacket,Apparel,28.66,1,28.66,Central,Dina,C3752
+O100590,2025-02-14,Epsilon Jacket,Apparel,141.03,4,564.12,West,Bilal,C9176
+O100591,2025-07-26,Zeta Socks,Accessories,54.85,1,54.85,North,Bilal,C8505
+O100592,2024-12-26,Zeta Socks,Accessories,47.46,1,47.46,Central,Ehsan,C5771
+O100593,2024-12-23,Beta T-shirt,Apparel,100.12,1,100.12,Central,Bilal,C9516
+O100594,2025-04-06,Iota Charger,Electronics,122.52,1,122.52,West,Carlos,C6188
+O100595,2025-11-01,Theta Watch,Electronics,14.2,4,56.8,Central,Dina,C6108
+O100596,2025-07-31,Theta Watch,Electronics,229.31,1,229.31,Central,Bilal,C5747
+O100597,2025-03-26,Delta Cap,Accessories,127.32,1,127.32,East,Bilal,C3697
+O100598,2025-06-16,Iota Charger,Electronics,138.27,10,1382.7,Central,Carlos,C6116
+O100599,2025-02-26,Theta Watch,Electronics,122.34,1,122.34,East,Ayesha,C2358
+O100600,2025-07-07,Beta T-shirt,Apparel,94.63,1,94.63,South,Dina,C7986
+O100601,2025-05-29,Theta Watch,Electronics,217.5,5,1087.5,East,Ayesha,C7449
+O100602,2025-06-23,Iota Charger,Electronics,140.04,3,420.12,North,Carlos,C2456
+O100603,2025-11-01,Iota Charger,Electronics,215.05,3,645.15,North,Bilal,C7158
+O100604,2025-01-11,Kappa Backpack,Accessories,153.23,1,153.23,Central,Carlos,C1746
+O100605,2025-11-03,Zeta Socks,Accessories,175.85,1,175.85,North,Fatima,C6831
+O100606,2025-10-06,Delta Cap,Accessories,59.5,2,119.0,West,Carlos,C4303
+O100607,2025-08-18,Eta Laptop Sleeve,Accessories,122.62,1,122.62,Central,Carlos,C4334
+O100608,2025-08-30,Delta Cap,Accessories,84.34,1,84.34,East,Ehsan,C3629
+O100609,2025-08-14,Zeta Socks,Accessories,134.48,1,134.48,East,Dina,C3997
+O100610,2025-03-12,Alpha Hoodie,Apparel,214.26,1,214.26,Central,Ehsan,C9955
+O100611,2025-06-06,Iota Charger,Electronics,99.84,1,99.84,South,Ayesha,C6279
+O100612,2025-04-23,Epsilon Jacket,Apparel,227.99,5,1139.95,East,Ayesha,C5672
+O100613,2025-11-06,Delta Cap,Accessories,103.93,1,103.93,Central,Fatima,C2365
+O100614,2025-05-30,Eta Laptop Sleeve,Accessories,109.86,3,329.58,North,Fatima,C3442
+O100615,2024-12-21,Beta T-shirt,Apparel,175.09,2,350.18,East,Dina,C9012
+O100616,2025-02-16,Delta Cap,Accessories,148.74,2,297.48,Central,Carlos,C8246
+O100617,2025-06-19,Delta Cap,Accessories,186.77,4,747.08,West,Bilal,C9213
+O100618,2025-11-18,Epsilon Jacket,Apparel,151.59,2,303.18,Central,Ayesha,C8568
+O100619,2025-01-26,Beta T-shirt,Apparel,35.77,1,35.77,South,Ehsan,C8942
+O100620,2025-08-15,Eta Laptop Sleeve,Accessories,154.48,2,308.96,Central,Ehsan,C2026
+O100621,2025-01-06,Zeta Socks,Accessories,127.49,1,127.49,East,Dina,C6761
+O100622,2025-04-13,Kappa Backpack,Accessories,114.39,1,114.39,West,Fatima,C4305
+O100623,2025-04-10,Iota Charger,Electronics,241.07,4,964.28,North,Bilal,C1275
+O100624,2025-06-19,Epsilon Jacket,Apparel,147.7,1,147.7,North,Carlos,C8179
+O100625,2025-08-09,Eta Laptop Sleeve,Accessories,181.93,1,181.93,East,Ehsan,C5441
+O100626,2024-12-02,Iota Charger,Electronics,37.35,1,37.35,West,Bilal,C8567
+O100627,2025-06-16,Zeta Socks,Accessories,222.43,1,222.43,Central,Bilal,C6771
+O100628,2025-10-29,Zeta Socks,Accessories,247.03,1,247.03,West,Dina,C2546
+O100629,2025-02-02,Alpha Hoodie,Apparel,109.29,3,327.87,South,Bilal,C6612
+O100630,2024-12-31,Alpha Hoodie,Apparel,182.33,2,364.66,East,Carlos,C6300
+O100631,2025-01-19,Alpha Hoodie,Apparel,111.27,1,111.27,West,Bilal,C7850
+O100632,2025-08-22,Iota Charger,Electronics,174.45,1,174.45,West,Carlos,C5727
+O100633,2025-07-12,Theta Watch,Electronics,187.52,1,187.52,West,Bilal,C4104
+O100634,2025-05-24,Delta Cap,Accessories,57.19,4,228.76,North,Bilal,C7727
+O100635,2025-02-11,Gamma Sneakers,Footwear,96.03,1,96.03,North,Carlos,C1506
+O100636,2025-02-13,Theta Watch,Electronics,247.43,1,247.43,North,Dina,C9108
+O100637,2025-09-04,Beta T-shirt,Apparel,116.3,1,116.3,West,Bilal,C5914
+O100638,2025-07-16,Epsilon Jacket,Apparel,98.86,1,98.86,South,Ehsan,C7306
+O100639,2025-11-20,Theta Watch,Electronics,176.31,1,176.31,West,Bilal,C8287
+O100640,2025-08-14,Theta Watch,Electronics,205.86,1,205.86,West,Dina,C4096
+O100641,2025-05-12,Gamma Sneakers,Footwear,109.08,2,218.16,North,Fatima,C9424
+O100642,2025-05-26,Eta Laptop Sleeve,Accessories,146.89,1,146.89,Central,Carlos,C7119
+O100643,2025-10-23,Delta Cap,Accessories,131.59,1,131.59,Central,Ayesha,C4302
+O100644,2025-05-27,Gamma Sneakers,Footwear,71.15,2,142.3,Central,Dina,C5352
+O100645,2025-07-19,Theta Watch,Electronics,87.07,1,87.07,West,Ehsan,C1128
+O100646,2025-01-08,Alpha Hoodie,Apparel,245.12,1,245.12,West,Carlos,C9452
+O100647,2024-12-28,Iota Charger,Electronics,132.11,1,132.11,North,Dina,C5507
+O100648,2025-03-27,Iota Charger,Electronics,58.78,2,117.56,South,Ayesha,C2934
+O100649,2025-05-03,Zeta Socks,Accessories,149.01,1,149.01,Central,Ehsan,C8195
+O100650,2025-09-30,Zeta Socks,Accessories,90.52,1,90.52,Central,Dina,C7454
+O100651,2025-11-28,Iota Charger,Electronics,97.89,1,97.89,Central,Dina,C3075
+O100652,2025-08-24,Delta Cap,Accessories,210.58,1,210.58,South,Carlos,C9314
+O100653,2025-05-04,Eta Laptop Sleeve,Accessories,186.48,1,186.48,South,Ehsan,C4865
+O100654,2025-02-10,Delta Cap,Accessories,213.87,3,641.61,West,Fatima,C5008
+O100655,2025-07-20,Alpha Hoodie,Apparel,79.46,2,158.92,Central,Bilal,C7640
+O100656,2025-09-22,Zeta Socks,Accessories,182.98,1,182.98,East,Fatima,C6655
+O100657,2025-09-02,Gamma Sneakers,Footwear,111.23,1,111.23,East,Bilal,C8889
+O100658,2025-03-14,Kappa Backpack,Accessories,9.15,1,9.15,South,Ehsan,C2904
+O100659,2025-08-18,Beta T-shirt,Apparel,73.19,3,219.57,Central,Ehsan,C7096
+O100660,2024-12-03,Eta Laptop Sleeve,Accessories,160.5,3,481.5,West,Bilal,C7941
+O100661,2025-06-23,Eta Laptop Sleeve,Accessories,86.77,1,86.77,Central,Bilal,C9890
+O100662,2025-03-31,Epsilon Jacket,Apparel,132.16,1,132.16,Central,Bilal,C3836
+O100663,2025-08-03,Zeta Socks,Accessories,192.15,1,192.15,North,Dina,C4339
+O100664,2025-03-03,Iota Charger,Electronics,14.63,3,43.89,North,Ehsan,C3661
+O100665,2025-01-31,Iota Charger,Electronics,154.08,1,154.08,Central,Ehsan,C2859
+O100666,2025-07-04,Alpha Hoodie,Apparel,65.04,1,65.04,North,Ehsan,C9511
+O100667,2025-11-07,Delta Cap,Accessories,168.02,2,336.04,Central,Dina,C5531
+O100668,2025-07-06,Epsilon Jacket,Apparel,190.2,1,190.2,North,Fatima,C3888
+O100669,2025-06-21,Kappa Backpack,Accessories,123.74,1,123.74,South,Ehsan,C5087
+O100670,2025-01-30,Iota Charger,Electronics,151.23,1,151.23,South,Ayesha,C5319
+O100671,2025-03-20,Alpha Hoodie,Apparel,178.82,1,178.82,South,Ayesha,C1729
+O100672,2025-11-18,Beta T-shirt,Apparel,59.64,1,59.64,East,Carlos,C6265
+O100673,2025-09-01,Kappa Backpack,Accessories,73.73,2,147.46,South,Bilal,C2803
+O100674,2025-01-14,Epsilon Jacket,Apparel,65.97,1,65.97,East,Dina,C5084
+O100675,2024-12-28,Zeta Socks,Accessories,97.25,1,97.25,East,Ayesha,C2721
+O100676,2025-01-12,Gamma Sneakers,Footwear,241.86,1,241.86,North,Fatima,C5273
+O100677,2024-12-07,Alpha Hoodie,Apparel,156.37,2,312.74,North,Ayesha,C9002
+O100678,2025-01-16,Iota Charger,Electronics,178.5,1,178.5,South,Ehsan,C3083
+O100679,2025-11-16,Zeta Socks,Accessories,177.99,1,177.99,West,Carlos,C8433
+O100680,2025-07-04,Delta Cap,Accessories,13.13,2,26.26,East,Carlos,C6859
+O100681,2025-08-10,Delta Cap,Accessories,76.55,1,76.55,South,Fatima,C5012
+O100682,2025-06-05,Theta Watch,Electronics,73.36,1,73.36,South,Ehsan,C5535
+O100683,2025-05-30,Beta T-shirt,Apparel,47.82,1,47.82,East,Ehsan,C2055
+O100684,2025-07-27,Theta Watch,Electronics,27.54,1,27.54,Central,Ayesha,C4948
+O100685,2025-11-14,Gamma Sneakers,Footwear,40.13,1,40.13,West,Ehsan,C8909
+O100686,2025-04-02,Alpha Hoodie,Apparel,160.73,1,160.73,West,Bilal,C7273
+O100687,2025-11-25,Epsilon Jacket,Apparel,31.78,1,31.78,Central,Fatima,C7404
+O100688,2025-08-12,Eta Laptop Sleeve,Accessories,90.2,3,270.6,South,Carlos,C8271
+O100689,2025-03-06,Theta Watch,Electronics,249.63,1,249.63,East,Dina,C6006
+O100690,2025-10-21,Eta Laptop Sleeve,Accessories,147.06,1,147.06,Central,Bilal,C2545
+O100691,2025-07-15,Beta T-shirt,Apparel,146.91,1,146.91,East,Ayesha,C7425
+O100692,2025-08-23,Iota Charger,Electronics,217.52,1,217.52,West,Carlos,C6468
+O100693,2024-12-02,Eta Laptop Sleeve,Accessories,230.24,2,460.48,West,Fatima,C7495
+O100694,2025-01-18,Theta Watch,Electronics,62.7,1,62.7,North,Carlos,C6083
+O100695,2025-01-23,Gamma Sneakers,Footwear,29.65,2,59.3,East,Carlos,C5726
+O100696,2025-10-19,Kappa Backpack,Accessories,176.35,1,176.35,West,Ehsan,C5139
+O100697,2025-01-03,Delta Cap,Accessories,126.8,3,380.4,East,Ehsan,C5828
+O100698,2025-10-20,Gamma Sneakers,Footwear,176.43,2,352.86,North,Carlos,C1865
+O100699,2025-08-08,Kappa Backpack,Accessories,168.12,5,840.6,Central,Bilal,C8741
+O100700,2025-01-20,Iota Charger,Electronics,141.71,1,141.71,West,Ayesha,C4670
+O100701,2025-06-10,Iota Charger,Electronics,148.73,5,743.65,North,Fatima,C2394
+O100702,2024-12-13,Kappa Backpack,Accessories,131.84,1,131.84,South,Ehsan,C6469
+O100703,2024-12-17,Eta Laptop Sleeve,Accessories,184.09,1,184.09,North,Dina,C9156
+O100704,2024-12-10,Eta Laptop Sleeve,Accessories,212.31,1,212.31,South,Fatima,C2039
+O100705,2025-10-02,Theta Watch,Electronics,39.93,3,119.79,North,Carlos,C7158
+O100706,2025-02-28,Epsilon Jacket,Apparel,176.32,1,176.32,South,Ayesha,C5343
+O100707,2025-10-31,Theta Watch,Electronics,77.05,2,154.1,West,Carlos,C5443
+O100708,2025-03-29,Kappa Backpack,Accessories,192.07,1,192.07,East,Fatima,C1342
+O100709,2025-07-02,Delta Cap,Accessories,101.04,2,202.08,North,Ayesha,C7070
+O100710,2025-04-30,Zeta Socks,Accessories,140.31,1,140.31,East,Fatima,C4818
+O100711,2025-03-30,Kappa Backpack,Accessories,179.86,5,899.3,Central,Carlos,C2795
+O100712,2024-12-08,Zeta Socks,Accessories,230.68,1,230.68,North,Bilal,C4126
+O100713,2025-09-22,Alpha Hoodie,Apparel,45.23,1,45.23,East,Fatima,C2357
+O100714,2025-05-10,Eta Laptop Sleeve,Accessories,221.67,1,221.67,South,Ayesha,C5074
+O100715,2025-02-09,Theta Watch,Electronics,25.3,4,101.2,North,Ehsan,C6196
+O100716,2025-09-27,Epsilon Jacket,Apparel,152.7,1,152.7,South,Carlos,C7090
+O100717,2025-06-23,Theta Watch,Electronics,46.46,1,46.46,North,Carlos,C5772
+O100718,2025-04-21,Alpha Hoodie,Apparel,36.25,1,36.25,Central,Carlos,C4575
+O100719,2025-07-31,Eta Laptop Sleeve,Accessories,96.67,1,96.67,West,Ayesha,C4661
+O100720,2025-05-04,Alpha Hoodie,Apparel,153.5,1,153.5,South,Ayesha,C1256
+O100721,2025-11-27,Gamma Sneakers,Footwear,66.67,2,133.34,West,Dina,C1260
+O100722,2025-08-26,Theta Watch,Electronics,123.85,1,123.85,South,Ayesha,C8719
+O100723,2025-04-22,Zeta Socks,Accessories,126.58,1,126.58,Central,Dina,C4212
+O100724,2024-12-30,Theta Watch,Electronics,232.5,2,465.0,East,Ayesha,C1478
+O100725,2024-12-23,Zeta Socks,Accessories,193.78,1,193.78,North,Bilal,C7771
+O100726,2025-06-04,Theta Watch,Electronics,118.12,1,118.12,South,Bilal,C6242
+O100727,2025-08-30,Alpha Hoodie,Apparel,22.97,1,22.97,North,Bilal,C4216
+O100728,2025-08-30,Kappa Backpack,Accessories,10.56,1,10.56,South,Carlos,C1905
+O100729,2025-03-12,Zeta Socks,Accessories,239.84,1,239.84,West,Bilal,C4966
+O100730,2025-10-26,Zeta Socks,Accessories,227.22,1,227.22,North,Bilal,C3689
+O100731,2025-08-31,Theta Watch,Electronics,117.89,1,117.89,North,Carlos,C1413
+O100732,2025-06-15,Kappa Backpack,Accessories,118.09,1,118.09,West,Bilal,C9102
+O100733,2025-01-14,Theta Watch,Electronics,55.66,1,55.66,South,Bilal,C8982
+O100734,2024-12-06,Zeta Socks,Accessories,8.29,1,8.29,Central,Ayesha,C8689
+O100735,2025-08-28,Theta Watch,Electronics,85.87,4,343.48,North,Ayesha,C7378
+O100736,2024-12-19,Zeta Socks,Accessories,205.37,1,205.37,East,Dina,C4874
+O100737,2025-09-10,Zeta Socks,Accessories,45.44,1,45.44,South,Dina,C3745
+O100738,2025-10-05,Zeta Socks,Accessories,215.15,1,215.15,South,Dina,C2120
+O100739,2025-04-05,Zeta Socks,Accessories,42.56,1,42.56,West,Bilal,C9799
+O100740,2025-06-24,Delta Cap,Accessories,247.17,4,988.68,East,Ayesha,C9112
+O100741,2025-07-24,Gamma Sneakers,Footwear,84.07,1,84.07,West,Dina,C6142
+O100742,2025-10-27,Theta Watch,Electronics,70.47,3,211.41,East,Fatima,C4830
+O100743,2025-03-13,Alpha Hoodie,Apparel,181.98,1,181.98,South,Ayesha,C1495
+O100744,2025-02-19,Zeta Socks,Accessories,115.0,2,230.0,South,Carlos,C5390
+O100745,2025-04-19,Theta Watch,Electronics,58.9,3,176.7,West,Ayesha,C2513
+O100746,2025-07-01,Gamma Sneakers,Footwear,221.64,1,221.64,North,Dina,C8754
+O100747,2025-09-14,Delta Cap,Accessories,40.91,3,122.73,West,Dina,C8244
+O100748,2025-03-12,Iota Charger,Electronics,169.46,2,338.92,East,Carlos,C8070
+O100749,2025-01-02,Kappa Backpack,Accessories,200.68,2,401.36,South,Carlos,C3544
+O100750,2025-08-25,Iota Charger,Electronics,25.1,1,25.1,West,Bilal,C4372
+O100751,2025-04-30,Epsilon Jacket,Apparel,93.72,2,187.44,East,Dina,C8903
+O100752,2025-11-14,Epsilon Jacket,Apparel,249.35,1,249.35,West,Ayesha,C2791
+O100753,2025-03-10,Eta Laptop Sleeve,Accessories,65.95,1,65.95,North,Carlos,C4333
+O100754,2025-05-12,Zeta Socks,Accessories,225.05,1,225.05,East,Ehsan,C5455
+O100755,2025-09-10,Zeta Socks,Accessories,37.63,2,75.26,South,Carlos,C4857
+O100756,2025-08-01,Beta T-shirt,Apparel,215.46,2,430.92,East,Ehsan,C1549
+O100757,2025-10-07,Beta T-shirt,Apparel,205.29,1,205.29,West,Ehsan,C8265
+O100758,2025-10-27,Beta T-shirt,Apparel,52.17,1,52.17,North,Dina,C8468
+O100759,2025-03-18,Epsilon Jacket,Apparel,166.6,2,333.2,Central,Ehsan,C5953
+O100760,2025-02-10,Theta Watch,Electronics,156.69,1,156.69,North,Ehsan,C6867
+O100761,2025-05-18,Zeta Socks,Accessories,156.81,1,156.81,Central,Dina,C5948
+O100762,2025-05-08,Zeta Socks,Accessories,66.89,1,66.89,Central,Bilal,C6869
+O100763,2025-03-21,Epsilon Jacket,Apparel,248.14,10,2481.4,Central,Dina,C3339
+O100764,2025-11-27,Eta Laptop Sleeve,Accessories,108.74,1,108.74,Central,Carlos,C8066
+O100765,2025-08-04,Iota Charger,Electronics,41.1,1,41.1,North,Fatima,C2803
+O100766,2025-02-23,Beta T-shirt,Apparel,64.59,4,258.36,South,Dina,C1489
+O100767,2025-07-25,Delta Cap,Accessories,219.79,1,219.79,South,Bilal,C8012
+O100768,2025-08-19,Theta Watch,Electronics,220.63,3,661.89,West,Ehsan,C4094
+O100769,2025-11-03,Kappa Backpack,Accessories,232.9,5,1164.5,Central,Fatima,C2769
+O100770,2024-12-04,Epsilon Jacket,Apparel,19.3,5,96.5,East,Carlos,C5318
+O100771,2025-05-26,Beta T-shirt,Apparel,39.68,2,79.36,North,Fatima,C1448
+O100772,2025-08-19,Eta Laptop Sleeve,Accessories,56.87,1,56.87,West,Carlos,C4794
+O100773,2025-01-16,Epsilon Jacket,Apparel,194.23,10,1942.3,Central,Carlos,C6008
+O100774,2025-06-01,Zeta Socks,Accessories,185.2,1,185.2,Central,Fatima,C5830
+O100775,2025-08-07,Gamma Sneakers,Footwear,190.64,1,190.64,West,Dina,C3679
+O100776,2025-03-20,Zeta Socks,Accessories,157.44,2,314.88,North,Dina,C2941
+O100777,2025-11-28,Eta Laptop Sleeve,Accessories,17.31,1,17.31,North,Ehsan,C4564
+O100778,2025-08-13,Theta Watch,Electronics,183.68,4,734.72,South,Carlos,C9991
+O100779,2025-09-26,Epsilon Jacket,Apparel,91.71,1,91.71,West,Ehsan,C1215
+O100780,2025-09-24,Kappa Backpack,Accessories,75.75,1,75.75,North,Bilal,C6120
+O100781,2024-12-11,Eta Laptop Sleeve,Accessories,222.06,1,222.06,East,Carlos,C3746
+O100782,2025-04-14,Gamma Sneakers,Footwear,104.5,1,104.5,West,Ehsan,C5444
+O100783,2024-12-08,Delta Cap,Accessories,71.87,1,71.87,West,Dina,C3976
+O100784,2025-04-21,Iota Charger,Electronics,19.53,1,19.53,Central,Fatima,C3739
+O100785,2025-10-02,Iota Charger,Electronics,144.37,10,1443.7,Central,Ehsan,C3293
+O100786,2024-12-26,Delta Cap,Accessories,125.24,1,125.24,West,Carlos,C2988
+O100787,2025-08-02,Eta Laptop Sleeve,Accessories,47.44,1,47.44,North,Ehsan,C1002
+O100788,2025-07-31,Beta T-shirt,Apparel,217.95,1,217.95,West,Dina,C5771
+O100789,2025-10-17,Delta Cap,Accessories,101.55,1,101.55,West,Ayesha,C1066
+O100790,2025-09-09,Iota Charger,Electronics,94.51,1,94.51,South,Carlos,C8687
+O100791,2025-07-09,Iota Charger,Electronics,10.15,1,10.15,South,Ehsan,C9844
+O100792,2025-10-11,Eta Laptop Sleeve,Accessories,99.01,1,99.01,West,Carlos,C7804
+O100793,2025-06-29,Epsilon Jacket,Apparel,133.79,1,133.79,West,Bilal,C9346
+O100794,2025-09-21,Iota Charger,Electronics,233.38,1,233.38,Central,Fatima,C5331
+O100795,2025-08-03,Eta Laptop Sleeve,Accessories,14.18,2,28.36,North,Ehsan,C8857
+O100796,2025-10-30,Kappa Backpack,Accessories,58.71,1,58.71,South,Carlos,C4101
+O100797,2025-04-23,Gamma Sneakers,Footwear,57.88,3,173.64,East,Fatima,C6669
+O100798,2024-12-12,Alpha Hoodie,Apparel,109.5,3,328.5,South,Carlos,C5999
+O100799,2025-07-04,Kappa Backpack,Accessories,171.54,1,171.54,Central,Carlos,C2299
+O100800,2024-12-20,Alpha Hoodie,Apparel,139.77,4,559.08,Central,Ayesha,C9055
+O100801,2025-10-31,Beta T-shirt,Apparel,218.86,2,437.72,North,Ayesha,C7531
+O100802,2025-11-26,Theta Watch,Electronics,58.14,2,116.28,East,Carlos,C7799
+O100803,2025-08-18,Gamma Sneakers,Footwear,166.42,1,166.42,South,Ehsan,C6419
+O100804,2025-10-28,Theta Watch,Electronics,87.51,1,87.51,Central,Ayesha,C6152
+O100805,2025-02-10,Zeta Socks,Accessories,73.66,2,147.32,East,Bilal,C7561
+O100806,2025-04-21,Iota Charger,Electronics,207.86,1,207.86,East,Bilal,C2948
+O100807,2025-09-19,Eta Laptop Sleeve,Accessories,72.24,1,72.24,South,Carlos,C4869
+O100808,2025-05-16,Eta Laptop Sleeve,Accessories,119.04,1,119.04,South,Carlos,C1240
+O100809,2025-11-26,Gamma Sneakers,Footwear,15.0,1,15.0,Central,Carlos,C9914
+O100810,2025-08-30,Alpha Hoodie,Apparel,62.62,3,187.86,North,Ehsan,C7604
+O100811,2025-10-01,Gamma Sneakers,Footwear,101.09,1,101.09,South,Bilal,C2503
+O100812,2025-10-18,Alpha Hoodie,Apparel,160.4,1,160.4,East,Carlos,C6741
+O100813,2025-04-15,Alpha Hoodie,Apparel,177.53,1,177.53,West,Carlos,C9480
+O100814,2025-06-26,Zeta Socks,Accessories,197.36,1,197.36,East,Bilal,C8861
+O100815,2025-03-16,Zeta Socks,Accessories,93.29,1,93.29,Central,Fatima,C7466
+O100816,2025-10-18,Eta Laptop Sleeve,Accessories,123.24,4,492.96,West,Bilal,C6425
+O100817,2025-10-16,Kappa Backpack,Accessories,205.7,1,205.7,East,Carlos,C8951
+O100818,2025-09-06,Delta Cap,Accessories,115.51,1,115.51,East,Carlos,C9025
+O100819,2025-09-05,Eta Laptop Sleeve,Accessories,28.16,1,28.16,West,Carlos,C2076
+O100820,2025-10-19,Zeta Socks,Accessories,240.65,5,1203.25,West,Fatima,C2808
+O100821,2025-05-14,Theta Watch,Electronics,14.22,1,14.22,Central,Dina,C9118
+O100822,2025-05-05,Iota Charger,Electronics,25.54,1,25.54,West,Ehsan,C9167
+O100823,2025-04-24,Gamma Sneakers,Footwear,160.83,1,160.83,North,Ayesha,C9500
+O100824,2025-09-09,Eta Laptop Sleeve,Accessories,243.67,1,243.67,Central,Ayesha,C6882
+O100825,2024-12-07,Alpha Hoodie,Apparel,229.68,1,229.68,Central,Fatima,C8372
+O100826,2025-06-04,Iota Charger,Electronics,156.6,1,156.6,North,Fatima,C1248
+O100827,2025-11-17,Theta Watch,Electronics,54.22,2,108.44,West,Fatima,C7224
+O100828,2025-05-02,Delta Cap,Accessories,228.73,1,228.73,East,Fatima,C1096
+O100829,2025-01-17,Kappa Backpack,Accessories,37.59,1,37.59,South,Dina,C5249
+O100830,2025-05-08,Iota Charger,Electronics,14.32,1,14.32,East,Fatima,C7879
+O100831,2025-05-10,Alpha Hoodie,Apparel,156.76,2,313.52,Central,Ayesha,C7352
+O100832,2024-12-11,Kappa Backpack,Accessories,28.5,1,28.5,South,Dina,C6570
+O100833,2025-10-14,Epsilon Jacket,Apparel,79.27,1,79.27,East,Ehsan,C6509
+O100834,2025-10-30,Alpha Hoodie,Apparel,200.78,1,200.78,East,Carlos,C6441
+O100835,2025-11-10,Gamma Sneakers,Footwear,36.27,10,362.7,South,Ehsan,C6709
+O100836,2025-06-08,Alpha Hoodie,Apparel,178.14,1,178.14,North,Bilal,C2001
+O100837,2025-03-16,Alpha Hoodie,Apparel,135.5,1,135.5,West,Dina,C1581
+O100838,2025-08-01,Delta Cap,Accessories,176.14,1,176.14,North,Ehsan,C4276
+O100839,2025-03-10,Kappa Backpack,Accessories,196.4,1,196.4,North,Carlos,C2027
+O100840,2025-07-16,Beta T-shirt,Apparel,160.65,3,481.95,South,Ehsan,C7090
+O100841,2025-03-18,Gamma Sneakers,Footwear,143.23,1,143.23,East,Ehsan,C6529
+O100842,2025-04-15,Alpha Hoodie,Apparel,42.05,1,42.05,South,Ayesha,C7273
+O100843,2025-10-21,Kappa Backpack,Accessories,117.65,1,117.65,North,Bilal,C6792
+O100844,2025-05-30,Beta T-shirt,Apparel,122.55,1,122.55,West,Dina,C9713
+O100845,2025-10-13,Delta Cap,Accessories,209.94,1,209.94,Central,Dina,C9015
+O100846,2025-06-10,Delta Cap,Accessories,35.31,5,176.55,West,Dina,C5171
+O100847,2025-05-28,Beta T-shirt,Apparel,164.01,1,164.01,Central,Bilal,C8105
+O100848,2025-02-28,Kappa Backpack,Accessories,79.54,1,79.54,West,Dina,C8384
+O100849,2025-07-08,Epsilon Jacket,Apparel,97.19,2,194.38,South,Bilal,C7499
+O100850,2025-04-15,Iota Charger,Electronics,31.78,1,31.78,East,Carlos,C6976
+O100851,2025-08-11,Alpha Hoodie,Apparel,75.16,1,75.16,North,Bilal,C6384
+O100852,2025-11-04,Zeta Socks,Accessories,218.57,1,218.57,North,Bilal,C3334
+O100853,2025-07-02,Kappa Backpack,Accessories,247.83,1,247.83,South,Fatima,C1425
+O100854,2025-11-01,Alpha Hoodie,Apparel,160.04,1,160.04,Central,Ayesha,C9666
+O100855,2024-12-09,Alpha Hoodie,Apparel,238.99,1,238.99,South,Ehsan,C7784
+O100856,2024-12-11,Kappa Backpack,Accessories,110.14,1,110.14,East,Bilal,C1347
+O100857,2025-11-22,Zeta Socks,Accessories,151.19,1,151.19,East,Ayesha,C9593
+O100858,2025-11-12,Beta T-shirt,Apparel,100.25,2,200.5,South,Fatima,C9310
+O100859,2025-04-08,Kappa Backpack,Accessories,119.71,2,239.42,South,Carlos,C5885
+O100860,2025-08-23,Delta Cap,Accessories,132.3,4,529.2,Central,Fatima,C5547
+O100861,2025-09-17,Gamma Sneakers,Footwear,30.78,1,30.78,West,Fatima,C4087
+O100862,2025-03-26,Iota Charger,Electronics,184.27,3,552.81,South,Ehsan,C3987
+O100863,2025-08-16,Alpha Hoodie,Apparel,26.01,1,26.01,East,Carlos,C9157
+O100864,2025-03-11,Alpha Hoodie,Apparel,144.01,1,144.01,Central,Ayesha,C7708
+O100865,2025-02-03,Gamma Sneakers,Footwear,145.58,3,436.74,South,Dina,C8727
+O100866,2024-12-30,Delta Cap,Accessories,206.17,4,824.68,West,Carlos,C1401
+O100867,2025-02-07,Delta Cap,Accessories,237.64,2,475.28,North,Ayesha,C8612
+O100868,2025-07-28,Alpha Hoodie,Apparel,133.76,1,133.76,South,Carlos,C3647
+O100869,2025-10-14,Kappa Backpack,Accessories,209.38,1,209.38,East,Carlos,C4174
+O100870,2024-12-10,Gamma Sneakers,Footwear,154.18,2,308.36,South,Fatima,C7744
+O100871,2025-01-31,Beta T-shirt,Apparel,42.78,1,42.78,North,Dina,C3505
+O100872,2024-12-14,Delta Cap,Accessories,235.89,1,235.89,West,Dina,C8475
+O100873,2025-05-16,Beta T-shirt,Apparel,90.96,1,90.96,North,Dina,C3606
+O100874,2025-01-01,Eta Laptop Sleeve,Accessories,152.22,1,152.22,East,Fatima,C4445
+O100875,2025-05-30,Alpha Hoodie,Apparel,163.1,1,163.1,Central,Fatima,C8512
+O100876,2025-04-01,Alpha Hoodie,Apparel,212.86,1,212.86,East,Carlos,C7649
+O100877,2025-06-19,Eta Laptop Sleeve,Accessories,224.18,1,224.18,West,Fatima,C3589
+O100878,2025-06-16,Delta Cap,Accessories,86.16,2,172.32,West,Ehsan,C6351
+O100879,2025-05-04,Alpha Hoodie,Apparel,185.27,1,185.27,Central,Dina,C2067
+O100880,2025-05-24,Zeta Socks,Accessories,198.0,1,198.0,Central,Fatima,C2271
+O100881,2024-12-20,Zeta Socks,Accessories,236.23,3,708.69,East,Ayesha,C3742
+O100882,2025-10-16,Beta T-shirt,Apparel,138.94,2,277.88,South,Carlos,C6600
+O100883,2024-12-24,Kappa Backpack,Accessories,234.91,1,234.91,Central,Bilal,C2493
+O100884,2025-06-08,Kappa Backpack,Accessories,217.3,1,217.3,West,Bilal,C2300
+O100885,2025-04-08,Alpha Hoodie,Apparel,215.45,3,646.35,South,Dina,C8498
+O100886,2025-09-13,Beta T-shirt,Apparel,8.67,1,8.67,South,Carlos,C9169
+O100887,2025-03-20,Gamma Sneakers,Footwear,47.34,1,47.34,North,Dina,C9895
+O100888,2025-02-19,Epsilon Jacket,Apparel,15.78,1,15.78,West,Bilal,C6121
+O100889,2025-10-20,Beta T-shirt,Apparel,129.9,1,129.9,East,Ayesha,C9086
+O100890,2025-07-04,Iota Charger,Electronics,131.89,1,131.89,Central,Ayesha,C9708
+O100891,2025-11-14,Alpha Hoodie,Apparel,159.35,1,159.35,East,Ehsan,C2592
+O100892,2025-10-15,Delta Cap,Accessories,37.55,1,37.55,Central,Ayesha,C8029
+O100893,2025-07-10,Iota Charger,Electronics,78.46,1,78.46,East,Ehsan,C7907
+O100894,2024-12-17,Delta Cap,Accessories,103.7,3,311.1,Central,Fatima,C6015
+O100895,2025-04-02,Beta T-shirt,Apparel,44.68,1,44.68,Central,Ayesha,C4478
+O100896,2025-10-10,Alpha Hoodie,Apparel,194.43,1,194.43,West,Carlos,C5160
+O100897,2025-09-10,Eta Laptop Sleeve,Accessories,29.53,1,29.53,West,Carlos,C2192
+O100898,2025-10-22,Eta Laptop Sleeve,Accessories,50.08,1,50.08,North,Dina,C7694
+O100899,2025-05-14,Theta Watch,Electronics,37.15,1,37.15,North,Carlos,C8207
+O100900,2025-04-11,Eta Laptop Sleeve,Accessories,212.64,1,212.64,South,Bilal,C3447
+O100901,2024-12-08,Zeta Socks,Accessories,135.61,1,135.61,North,Fatima,C1014
+O100902,2025-04-29,Alpha Hoodie,Apparel,122.12,1,122.12,Central,Carlos,C5041
+O100903,2025-03-02,Eta Laptop Sleeve,Accessories,23.94,1,23.94,East,Carlos,C1597
+O100904,2025-07-17,Epsilon Jacket,Apparel,132.93,1,132.93,East,Dina,C3399
+O100905,2025-10-31,Gamma Sneakers,Footwear,183.52,1,183.52,North,Ehsan,C8512
+O100906,2025-08-19,Epsilon Jacket,Apparel,39.66,3,118.98,North,Fatima,C7856
+O100907,2025-03-08,Epsilon Jacket,Apparel,170.42,1,170.42,North,Fatima,C1955
+O100908,2025-11-07,Zeta Socks,Accessories,95.46,1,95.46,West,Dina,C8976
+O100909,2024-12-25,Theta Watch,Electronics,228.79,1,228.79,West,Carlos,C3384
+O100910,2025-05-13,Zeta Socks,Accessories,204.86,1,204.86,Central,Fatima,C5514
+O100911,2025-04-15,Theta Watch,Electronics,78.04,2,156.08,South,Fatima,C6757
+O100912,2025-06-12,Zeta Socks,Accessories,155.63,2,311.26,South,Ayesha,C5445
+O100913,2025-11-15,Eta Laptop Sleeve,Accessories,29.6,1,29.6,North,Bilal,C3311
+O100914,2025-09-24,Gamma Sneakers,Footwear,239.65,1,239.65,South,Ehsan,C1151
+O100915,2025-10-18,Theta Watch,Electronics,227.36,5,1136.8,North,Bilal,C2804
+O100916,2025-01-15,Kappa Backpack,Accessories,46.73,1,46.73,South,Ehsan,C2955
+O100917,2025-07-14,Zeta Socks,Accessories,183.93,1,183.93,Central,Carlos,C8541
+O100918,2025-11-18,Gamma Sneakers,Footwear,61.27,1,61.27,East,Ayesha,C2570
+O100919,2025-01-05,Theta Watch,Electronics,200.21,1,200.21,North,Dina,C4229
+O100920,2025-06-03,Zeta Socks,Accessories,69.11,1,69.11,Central,Bilal,C1210
+O100921,2025-10-29,Zeta Socks,Accessories,196.07,1,196.07,Central,Bilal,C2064
+O100922,2025-11-12,Eta Laptop Sleeve,Accessories,159.85,2,319.7,Central,Ayesha,C9373
+O100923,2025-01-05,Zeta Socks,Accessories,189.7,1,189.7,East,Carlos,C3895
+O100924,2025-09-21,Theta Watch,Electronics,182.49,10,1824.9,South,Dina,C4162
+O100925,2025-06-06,Gamma Sneakers,Footwear,111.06,3,333.18,East,Ayesha,C3970
+O100926,2025-02-23,Alpha Hoodie,Apparel,58.07,1,58.07,South,Fatima,C2640
+O100927,2025-03-21,Eta Laptop Sleeve,Accessories,106.44,1,106.44,South,Ayesha,C7720
+O100928,2025-03-10,Eta Laptop Sleeve,Accessories,22.85,10,228.5,South,Ayesha,C4631
+O100929,2025-03-09,Eta Laptop Sleeve,Accessories,242.97,3,728.91,West,Ehsan,C1459
+O100930,2025-05-03,Gamma Sneakers,Footwear,92.31,10,923.1,East,Bilal,C2576
+O100931,2025-07-06,Epsilon Jacket,Apparel,170.87,1,170.87,West,Bilal,C6690
+O100932,2025-08-12,Beta T-shirt,Apparel,223.68,1,223.68,North,Carlos,C4192
+O100933,2025-11-21,Delta Cap,Accessories,220.56,1,220.56,North,Carlos,C4226
+O100934,2025-03-29,Epsilon Jacket,Apparel,248.84,1,248.84,Central,Bilal,C5627
+O100935,2024-12-22,Alpha Hoodie,Apparel,163.46,1,163.46,Central,Fatima,C8901
+O100936,2025-05-13,Theta Watch,Electronics,224.26,1,224.26,North,Ayesha,C2633
+O100937,2025-11-02,Alpha Hoodie,Apparel,215.97,1,215.97,West,Ehsan,C2580
+O100938,2025-07-13,Theta Watch,Electronics,75.93,3,227.79,West,Fatima,C1925
+O100939,2025-09-05,Gamma Sneakers,Footwear,44.82,1,44.82,North,Ehsan,C1698
+O100940,2025-08-26,Beta T-shirt,Apparel,211.91,1,211.91,South,Carlos,C2775
+O100941,2025-11-20,Kappa Backpack,Accessories,106.24,1,106.24,West,Bilal,C1552
+O100942,2025-03-14,Alpha Hoodie,Apparel,209.37,3,628.11,North,Ehsan,C2745
+O100943,2024-12-22,Iota Charger,Electronics,96.32,1,96.32,South,Ehsan,C6801
+O100944,2025-11-23,Alpha Hoodie,Apparel,195.45,5,977.25,North,Ayesha,C9751
+O100945,2025-10-03,Eta Laptop Sleeve,Accessories,189.51,1,189.51,West,Bilal,C5027
+O100946,2025-08-17,Eta Laptop Sleeve,Accessories,55.48,1,55.48,East,Bilal,C8378
+O100947,2025-05-18,Theta Watch,Electronics,14.78,1,14.78,East,Dina,C9066
+O100948,2025-04-11,Alpha Hoodie,Apparel,101.35,3,304.05,Central,Bilal,C8464
+O100949,2025-01-24,Epsilon Jacket,Apparel,98.9,1,98.9,South,Bilal,C2558
+O100950,2025-11-23,Alpha Hoodie,Apparel,142.35,1,142.35,West,Dina,C7547
+O100951,2025-07-30,Delta Cap,Accessories,159.78,1,159.78,Central,Dina,C6223
+O100952,2025-06-06,Eta Laptop Sleeve,Accessories,59.24,1,59.24,East,Bilal,C5872
+O100953,2025-10-15,Zeta Socks,Accessories,180.78,2,361.56,West,Bilal,C7770
+O100954,2025-07-01,Delta Cap,Accessories,217.36,1,217.36,Central,Bilal,C2141
+O100955,2025-07-27,Eta Laptop Sleeve,Accessories,233.09,1,233.09,West,Bilal,C7959
+O100956,2025-01-06,Iota Charger,Electronics,162.22,5,811.1,East,Carlos,C9016
+O100957,2025-05-14,Gamma Sneakers,Footwear,242.67,1,242.67,North,Bilal,C1631
+O100958,2025-10-16,Delta Cap,Accessories,30.23,1,30.23,West,Ehsan,C6035
+O100959,2025-06-16,Iota Charger,Electronics,208.9,4,835.6,North,Bilal,C9473
+O100960,2025-03-01,Zeta Socks,Accessories,42.36,1,42.36,East,Carlos,C7924
+O100961,2024-12-25,Kappa Backpack,Accessories,86.17,3,258.51,Central,Ayesha,C9186
+O100962,2024-12-13,Delta Cap,Accessories,64.48,2,128.96,North,Fatima,C5696
+O100963,2025-06-03,Epsilon Jacket,Apparel,232.02,1,232.02,Central,Fatima,C6816
+O100964,2025-01-28,Alpha Hoodie,Apparel,243.66,1,243.66,South,Carlos,C8730
+O100965,2025-11-21,Theta Watch,Electronics,24.77,1,24.77,East,Bilal,C7049
+O100966,2025-08-03,Eta Laptop Sleeve,Accessories,71.23,1,71.23,North,Dina,C8604
+O100967,2025-08-10,Theta Watch,Electronics,247.3,1,247.3,Central,Bilal,C1428
+O100968,2025-05-26,Epsilon Jacket,Apparel,163.98,1,163.98,Central,Carlos,C7029
+O100969,2025-03-17,Gamma Sneakers,Footwear,218.79,1,218.79,Central,Dina,C2290
+O100970,2025-11-03,Gamma Sneakers,Footwear,47.56,4,190.24,North,Bilal,C4189
+O100971,2025-11-27,Delta Cap,Accessories,72.05,3,216.15,Central,Bilal,C7474
+O100972,2025-03-22,Kappa Backpack,Accessories,95.16,3,285.48,North,Fatima,C9711
+O100973,2025-03-01,Zeta Socks,Accessories,106.41,1,106.41,South,Carlos,C8824
+O100974,2025-11-07,Iota Charger,Electronics,141.96,4,567.84,South,Carlos,C9890
+O100975,2025-05-26,Theta Watch,Electronics,249.16,1,249.16,West,Dina,C6865
+O100976,2025-06-14,Alpha Hoodie,Apparel,169.5,1,169.5,East,Carlos,C2975
+O100977,2025-07-20,Epsilon Jacket,Apparel,142.63,4,570.52,North,Ayesha,C3420
+O100978,2025-03-28,Kappa Backpack,Accessories,234.29,1,234.29,South,Bilal,C6682
+O100979,2025-08-01,Theta Watch,Electronics,86.43,1,86.43,East,Carlos,C2813
+O100980,2025-04-30,Iota Charger,Electronics,36.63,1,36.63,West,Fatima,C7427
+O100981,2025-08-20,Zeta Socks,Accessories,185.05,1,185.05,South,Ehsan,C5135
+O100982,2024-12-12,Zeta Socks,Accessories,8.33,2,16.66,West,Ayesha,C3288
+O100983,2025-05-18,Iota Charger,Electronics,196.97,2,393.94,South,Fatima,C3615
+O100984,2025-04-18,Zeta Socks,Accessories,243.6,1,243.6,South,Dina,C2186
+O100985,2025-11-16,Gamma Sneakers,Footwear,243.19,1,243.19,Central,Carlos,C1548
+O100986,2025-11-29,Eta Laptop Sleeve,Accessories,80.54,3,241.62,Central,Carlos,C9522
+O100987,2025-05-31,Theta Watch,Electronics,141.09,1,141.09,West,Fatima,C9872
+O100988,2025-03-31,Zeta Socks,Accessories,244.25,1,244.25,North,Carlos,C9516
+O100989,2025-10-22,Zeta Socks,Accessories,221.37,1,221.37,North,Ayesha,C6638
+O100990,2025-01-08,Kappa Backpack,Accessories,188.35,1,188.35,West,Dina,C4279
+O100991,2025-10-07,Zeta Socks,Accessories,199.26,1,199.26,South,Ayesha,C9734
+O100992,2024-12-22,Delta Cap,Accessories,186.16,1,186.16,South,Carlos,C4378
+O100993,2025-08-09,Epsilon Jacket,Apparel,110.62,4,442.48,Central,Ayesha,C9777
+O100994,2025-08-13,Gamma Sneakers,Footwear,22.66,1,22.66,West,Bilal,C1070
+O100995,2025-04-09,Gamma Sneakers,Footwear,9.57,1,9.57,North,Ayesha,C6574
+O100996,2025-01-06,Beta T-shirt,Apparel,207.11,1,207.11,South,Dina,C4893
+O100997,2025-05-19,Gamma Sneakers,Footwear,51.29,3,153.87,East,Carlos,C5448
+O100998,2025-05-07,Beta T-shirt,Apparel,120.98,1,120.98,South,Ayesha,C4856
+O100999,2025-11-28,Theta Watch,Electronics,108.64,1,108.64,Central,Ayesha,C2339
+O101000,2024-12-27,Beta T-shirt,Apparel,73.78,1,73.78,East,Fatima,C7068
+O101001,2025-02-15,Gamma Sneakers,Footwear,228.06,1,228.06,West,Ehsan,C2869
+O101002,2025-01-30,Epsilon Jacket,Apparel,161.8,1,161.8,Central,Carlos,C6993
+O101003,2025-11-03,Gamma Sneakers,Footwear,166.95,3,500.85,North,Dina,C8248
+O101004,2025-07-19,Epsilon Jacket,Apparel,238.7,1,238.7,North,Dina,C4687
+O101005,2025-08-01,Kappa Backpack,Accessories,171.0,1,171.0,South,Carlos,C1058
+O101006,2025-02-21,Beta T-shirt,Apparel,112.47,1,112.47,West,Fatima,C1771
+O101007,2025-10-07,Epsilon Jacket,Apparel,205.25,1,205.25,South,Dina,C3871
+O101008,2025-06-20,Delta Cap,Accessories,195.07,2,390.14,East,Dina,C6439
+O101009,2025-10-02,Delta Cap,Accessories,130.71,1,130.71,North,Carlos,C7530
+O101010,2025-07-11,Alpha Hoodie,Apparel,23.44,3,70.32,East,Dina,C1386
+O101011,2025-06-15,Zeta Socks,Accessories,163.59,1,163.59,West,Ayesha,C7461
+O101012,2025-07-31,Zeta Socks,Accessories,245.23,1,245.23,Central,Fatima,C2448
+O101013,2025-02-27,Epsilon Jacket,Apparel,57.19,1,57.19,South,Ehsan,C2431
+O101014,2025-05-18,Epsilon Jacket,Apparel,176.42,3,529.26,North,Dina,C4361
+O101015,2025-06-19,Alpha Hoodie,Apparel,211.05,1,211.05,West,Bilal,C7166
+O101016,2025-11-02,Kappa Backpack,Accessories,48.61,1,48.61,East,Carlos,C1770
+O101017,2025-04-21,Beta T-shirt,Apparel,35.13,3,105.39,Central,Dina,C1881
+O101018,2025-01-29,Iota Charger,Electronics,243.53,1,243.53,East,Ehsan,C6961
+O101019,2025-06-07,Kappa Backpack,Accessories,168.62,1,168.62,South,Carlos,C4002
+O101020,2025-11-09,Beta T-shirt,Apparel,47.47,10,474.7,West,Dina,C7286
+O101021,2025-09-03,Beta T-shirt,Apparel,61.67,2,123.34,South,Fatima,C8737
+O101022,2025-10-27,Beta T-shirt,Apparel,68.4,1,68.4,East,Ehsan,C1779
+O101023,2025-01-06,Alpha Hoodie,Apparel,232.43,1,232.43,West,Fatima,C6661
+O101024,2025-04-04,Beta T-shirt,Apparel,178.15,2,356.3,Central,Ayesha,C8027
+O101025,2025-02-23,Iota Charger,Electronics,159.95,1,159.95,East,Dina,C7487
+O101026,2025-11-13,Kappa Backpack,Accessories,249.15,1,249.15,North,Ayesha,C3104
+O101027,2025-11-22,Theta Watch,Electronics,86.02,1,86.02,North,Bilal,C4353
+O101028,2025-03-16,Alpha Hoodie,Apparel,99.81,1,99.81,East,Dina,C7378
+O101029,2025-02-06,Iota Charger,Electronics,102.67,5,513.35,East,Carlos,C6285
+O101030,2025-08-18,Iota Charger,Electronics,75.66,1,75.66,Central,Dina,C5070
+O101031,2025-06-12,Delta Cap,Accessories,247.09,1,247.09,West,Fatima,C5244
+O101032,2025-05-18,Kappa Backpack,Accessories,188.16,1,188.16,South,Ayesha,C1223
+O101033,2025-01-04,Theta Watch,Electronics,187.23,1,187.23,Central,Ayesha,C3325
+O101034,2025-05-09,Eta Laptop Sleeve,Accessories,51.61,1,51.61,Central,Fatima,C6161
+O101035,2025-07-07,Beta T-shirt,Apparel,41.98,1,41.98,West,Dina,C2602
+O101036,2025-03-22,Iota Charger,Electronics,108.12,1,108.12,North,Dina,C3780
+O101037,2025-07-14,Alpha Hoodie,Apparel,167.75,1,167.75,South,Carlos,C9846
+O101038,2025-10-13,Epsilon Jacket,Apparel,113.98,1,113.98,West,Bilal,C8542
+O101039,2025-03-20,Alpha Hoodie,Apparel,227.77,1,227.77,Central,Dina,C2178
+O101040,2025-01-30,Gamma Sneakers,Footwear,157.64,1,157.64,Central,Dina,C2288
+O101041,2025-09-07,Iota Charger,Electronics,45.65,2,91.3,East,Fatima,C1446
+O101042,2025-03-21,Iota Charger,Electronics,165.73,2,331.46,North,Carlos,C1228
+O101043,2025-07-24,Epsilon Jacket,Apparel,175.51,4,702.04,North,Carlos,C5951
+O101044,2025-03-05,Eta Laptop Sleeve,Accessories,145.93,1,145.93,Central,Bilal,C8331
+O101045,2025-04-09,Delta Cap,Accessories,114.38,1,114.38,East,Dina,C4651
+O101046,2025-06-11,Zeta Socks,Accessories,97.03,1,97.03,Central,Bilal,C4379
+O101047,2025-01-23,Kappa Backpack,Accessories,199.55,5,997.75,East,Bilal,C9234
+O101048,2025-10-21,Beta T-shirt,Apparel,17.63,10,176.3,Central,Ayesha,C8832
+O101049,2025-10-18,Epsilon Jacket,Apparel,188.1,5,940.5,West,Dina,C5326
+O101050,2025-02-06,Eta Laptop Sleeve,Accessories,155.96,1,155.96,East,Bilal,C9195
+O101051,2025-06-23,Eta Laptop Sleeve,Accessories,174.8,10,1748.0,West,Dina,C3946
+O101052,2025-01-24,Epsilon Jacket,Apparel,94.31,1,94.31,Central,Carlos,C6149
+O101053,2025-09-12,Eta Laptop Sleeve,Accessories,91.96,1,91.96,South,Bilal,C4292
+O101054,2025-04-15,Eta Laptop Sleeve,Accessories,118.3,1,118.3,West,Ehsan,C1356
+O101055,2025-03-29,Kappa Backpack,Accessories,187.96,1,187.96,Central,Ayesha,C7151
+O101056,2025-09-30,Gamma Sneakers,Footwear,209.23,1,209.23,Central,Ehsan,C2311
+O101057,2025-05-05,Iota Charger,Electronics,75.72,2,151.44,East,Bilal,C4487
+O101058,2025-05-29,Epsilon Jacket,Apparel,41.89,4,167.56,East,Bilal,C3371
+O101059,2025-07-03,Iota Charger,Electronics,46.98,1,46.98,East,Carlos,C3436
+O101060,2024-12-29,Theta Watch,Electronics,211.65,1,211.65,Central,Ehsan,C3300
+O101061,2025-01-16,Delta Cap,Accessories,220.43,1,220.43,West,Fatima,C3848
+O101062,2025-05-01,Alpha Hoodie,Apparel,123.86,1,123.86,East,Carlos,C7364
+O101063,2025-07-11,Epsilon Jacket,Apparel,176.31,1,176.31,Central,Dina,C8152
+O101064,2025-09-17,Gamma Sneakers,Footwear,162.73,1,162.73,West,Bilal,C7460
+O101065,2025-02-05,Delta Cap,Accessories,52.52,1,52.52,North,Bilal,C6307
+O101066,2024-12-30,Beta T-shirt,Apparel,236.2,5,1181.0,East,Ayesha,C4217
+O101067,2025-01-17,Alpha Hoodie,Apparel,154.86,3,464.58,South,Fatima,C8435
+O101068,2025-01-21,Gamma Sneakers,Footwear,58.46,1,58.46,Central,Ehsan,C1142
+O101069,2025-06-20,Delta Cap,Accessories,164.2,1,164.2,North,Carlos,C9497
+O101070,2025-08-15,Delta Cap,Accessories,223.84,1,223.84,North,Dina,C8751
+O101071,2025-04-22,Theta Watch,Electronics,239.65,3,718.95,North,Ayesha,C8704
+O101072,2025-07-05,Iota Charger,Electronics,96.43,1,96.43,North,Dina,C1913
+O101073,2025-09-22,Kappa Backpack,Accessories,212.17,4,848.68,West,Ayesha,C7421
+O101074,2025-05-19,Alpha Hoodie,Apparel,55.78,1,55.78,North,Carlos,C3657
+O101075,2025-09-13,Zeta Socks,Accessories,207.08,1,207.08,North,Bilal,C7663
+O101076,2025-06-18,Beta T-shirt,Apparel,14.17,3,42.51,North,Dina,C2357
+O101077,2025-11-02,Zeta Socks,Accessories,32.55,1,32.55,Central,Ehsan,C6312
+O101078,2025-03-06,Alpha Hoodie,Apparel,130.97,1,130.97,South,Bilal,C8549
+O101079,2025-02-25,Eta Laptop Sleeve,Accessories,148.0,1,148.0,North,Fatima,C6140
+O101080,2025-05-18,Eta Laptop Sleeve,Accessories,163.84,1,163.84,East,Dina,C3819
+O101081,2025-02-24,Eta Laptop Sleeve,Accessories,54.78,1,54.78,North,Carlos,C7925
+O101082,2025-04-29,Alpha Hoodie,Apparel,93.04,4,372.16,Central,Dina,C8789
+O101083,2025-03-22,Eta Laptop Sleeve,Accessories,94.95,1,94.95,West,Bilal,C9811
+O101084,2025-08-18,Theta Watch,Electronics,115.98,1,115.98,Central,Fatima,C7703
+O101085,2025-04-08,Beta T-shirt,Apparel,38.59,2,77.18,West,Ayesha,C5188
+O101086,2025-10-05,Kappa Backpack,Accessories,199.69,1,199.69,East,Bilal,C2078
+O101087,2025-06-25,Delta Cap,Accessories,146.64,1,146.64,Central,Ayesha,C3430
+O101088,2025-09-23,Theta Watch,Electronics,168.96,1,168.96,North,Fatima,C9778
+O101089,2025-09-01,Beta T-shirt,Apparel,208.37,1,208.37,South,Ayesha,C7793
+O101090,2025-10-06,Alpha Hoodie,Apparel,28.34,1,28.34,Central,Bilal,C7327
+O101091,2024-12-26,Eta Laptop Sleeve,Accessories,222.95,1,222.95,West,Bilal,C4103
+O101092,2025-02-21,Zeta Socks,Accessories,249.2,1,249.2,Central,Ayesha,C9060
+O101093,2025-05-18,Epsilon Jacket,Apparel,144.34,1,144.34,West,Dina,C5665
+O101094,2025-02-21,Eta Laptop Sleeve,Accessories,230.41,1,230.41,East,Ehsan,C2042
+O101095,2025-02-28,Gamma Sneakers,Footwear,58.05,1,58.05,North,Dina,C7300
+O101096,2025-01-24,Epsilon Jacket,Apparel,177.49,1,177.49,South,Ehsan,C8641
+O101097,2025-11-19,Kappa Backpack,Accessories,159.51,1,159.51,Central,Carlos,C8682
+O101098,2025-11-25,Theta Watch,Electronics,157.89,1,157.89,South,Carlos,C5419
+O101099,2025-09-02,Beta T-shirt,Apparel,108.09,1,108.09,Central,Fatima,C7745
+O101100,2025-06-12,Delta Cap,Accessories,217.16,3,651.48,West,Dina,C2603
+O101101,2025-07-26,Gamma Sneakers,Footwear,61.24,1,61.24,South,Ehsan,C2922
+O101102,2025-07-26,Epsilon Jacket,Apparel,223.27,1,223.27,North,Ehsan,C3343
+O101103,2025-01-08,Gamma Sneakers,Footwear,49.04,1,49.04,South,Ayesha,C4513
+O101104,2025-04-25,Gamma Sneakers,Footwear,84.5,1,84.5,North,Fatima,C2004
+O101105,2025-01-11,Iota Charger,Electronics,241.6,1,241.6,East,Dina,C3987
+O101106,2025-04-15,Alpha Hoodie,Apparel,200.03,1,200.03,East,Ehsan,C3490
+O101107,2025-04-02,Theta Watch,Electronics,238.87,1,238.87,West,Fatima,C1181
+O101108,2025-05-26,Kappa Backpack,Accessories,67.82,1,67.82,Central,Carlos,C6322
+O101109,2024-12-22,Delta Cap,Accessories,108.22,1,108.22,North,Bilal,C4081
+O101110,2025-05-26,Delta Cap,Accessories,115.9,1,115.9,South,Fatima,C8591
+O101111,2024-12-13,Alpha Hoodie,Apparel,92.41,1,92.41,Central,Dina,C6420
+O101112,2025-07-23,Kappa Backpack,Accessories,170.29,3,510.87,West,Ehsan,C4775
+O101113,2025-01-20,Alpha Hoodie,Apparel,77.98,1,77.98,North,Ehsan,C7952
+O101114,2025-11-24,Beta T-shirt,Apparel,134.41,1,134.41,North,Fatima,C4745
+O101115,2025-06-28,Alpha Hoodie,Apparel,61.32,1,61.32,South,Ayesha,C7181
+O101116,2025-06-19,Kappa Backpack,Accessories,116.94,1,116.94,North,Ayesha,C4354
+O101117,2025-02-14,Beta T-shirt,Apparel,69.25,1,69.25,East,Ehsan,C1284
+O101118,2025-02-28,Eta Laptop Sleeve,Accessories,85.25,1,85.25,West,Ehsan,C4397
+O101119,2025-07-04,Zeta Socks,Accessories,45.59,10,455.9,Central,Carlos,C9224
+O101120,2025-03-31,Gamma Sneakers,Footwear,125.8,1,125.8,North,Fatima,C6506
+O101121,2024-12-01,Eta Laptop Sleeve,Accessories,42.98,3,128.94,East,Carlos,C9905
+O101122,2025-09-07,Eta Laptop Sleeve,Accessories,238.43,1,238.43,South,Ayesha,C5504
+O101123,2025-05-22,Kappa Backpack,Accessories,248.38,1,248.38,East,Dina,C9223
+O101124,2025-04-14,Eta Laptop Sleeve,Accessories,183.01,1,183.01,East,Carlos,C8402
+O101125,2025-10-16,Iota Charger,Electronics,33.38,1,33.38,North,Bilal,C9945
+O101126,2025-03-24,Alpha Hoodie,Apparel,168.19,1,168.19,East,Carlos,C2608
+O101127,2025-11-20,Zeta Socks,Accessories,36.01,1,36.01,Central,Carlos,C9870
+O101128,2025-03-12,Zeta Socks,Accessories,71.5,1,71.5,East,Bilal,C4301
+O101129,2025-04-29,Beta T-shirt,Apparel,122.21,1,122.21,West,Ayesha,C8024
+O101130,2025-08-10,Eta Laptop Sleeve,Accessories,80.67,1,80.67,South,Ayesha,C2735
+O101131,2025-06-07,Zeta Socks,Accessories,172.7,10,1727.0,South,Ayesha,C9610
+O101132,2025-02-20,Kappa Backpack,Accessories,119.39,1,119.39,South,Fatima,C3094
+O101133,2025-01-20,Kappa Backpack,Accessories,97.64,4,390.56,West,Ehsan,C6539
+O101134,2025-02-13,Zeta Socks,Accessories,134.53,5,672.65,South,Ehsan,C5391
+O101135,2025-03-09,Theta Watch,Electronics,193.34,1,193.34,West,Dina,C8106
+O101136,2025-10-26,Beta T-shirt,Apparel,48.18,2,96.36,South,Carlos,C7851
+O101137,2025-08-30,Theta Watch,Electronics,238.69,1,238.69,West,Bilal,C4933
+O101138,2024-12-09,Eta Laptop Sleeve,Accessories,161.18,1,161.18,West,Bilal,C9837
+O101139,2025-03-22,Epsilon Jacket,Apparel,236.45,1,236.45,East,Ehsan,C6082
+O101140,2025-09-21,Zeta Socks,Accessories,121.05,1,121.05,Central,Carlos,C6459
+O101141,2025-01-18,Kappa Backpack,Accessories,151.31,1,151.31,North,Bilal,C2907
+O101142,2025-01-27,Iota Charger,Electronics,160.24,1,160.24,South,Bilal,C4186
+O101143,2024-12-27,Iota Charger,Electronics,152.49,1,152.49,East,Carlos,C6245
+O101144,2025-08-15,Beta T-shirt,Apparel,71.06,1,71.06,East,Bilal,C3465
+O101145,2025-11-26,Gamma Sneakers,Footwear,231.84,4,927.36,West,Ayesha,C4457
+O101146,2025-04-08,Kappa Backpack,Accessories,23.69,1,23.69,South,Dina,C4935
+O101147,2025-01-19,Eta Laptop Sleeve,Accessories,99.16,1,99.16,West,Ehsan,C2544
+O101148,2025-11-19,Iota Charger,Electronics,136.44,2,272.88,West,Bilal,C2538
+O101149,2025-07-11,Zeta Socks,Accessories,17.46,1,17.46,East,Ehsan,C2986
+O101150,2025-07-27,Delta Cap,Accessories,141.85,1,141.85,West,Fatima,C5587
+O101151,2025-08-02,Beta T-shirt,Apparel,82.71,1,82.71,West,Dina,C6930
+O101152,2025-02-24,Gamma Sneakers,Footwear,244.67,3,734.01,East,Carlos,C8077
+O101153,2025-10-23,Iota Charger,Electronics,36.42,10,364.2,East,Bilal,C6033
+O101154,2025-04-14,Beta T-shirt,Apparel,72.13,4,288.52,North,Ayesha,C5948
+O101155,2025-04-16,Beta T-shirt,Apparel,67.13,3,201.39,Central,Ayesha,C7773
+O101156,2025-03-22,Gamma Sneakers,Footwear,153.94,4,615.76,South,Bilal,C4586
+O101157,2025-09-12,Beta T-shirt,Apparel,38.67,1,38.67,North,Bilal,C8184
+O101158,2025-09-30,Theta Watch,Electronics,168.35,1,168.35,East,Bilal,C8732
+O101159,2025-06-26,Beta T-shirt,Apparel,57.9,1,57.9,West,Fatima,C7691
+O101160,2024-12-29,Beta T-shirt,Apparel,231.05,1,231.05,West,Bilal,C7200
+O101161,2024-12-13,Epsilon Jacket,Apparel,169.34,10,1693.4,North,Ayesha,C1409
+O101162,2025-04-20,Theta Watch,Electronics,17.51,1,17.51,East,Bilal,C1911
+O101163,2025-07-17,Eta Laptop Sleeve,Accessories,184.8,1,184.8,Central,Ehsan,C3382
+O101164,2025-06-18,Theta Watch,Electronics,206.68,5,1033.4,West,Dina,C4342
+O101165,2025-10-25,Alpha Hoodie,Apparel,117.55,5,587.75,North,Ehsan,C2499
+O101166,2025-01-01,Beta T-shirt,Apparel,230.0,5,1150.0,East,Ayesha,C7196
+O101167,2025-11-23,Eta Laptop Sleeve,Accessories,152.75,1,152.75,East,Dina,C3772
+O101168,2025-05-03,Eta Laptop Sleeve,Accessories,154.74,1,154.74,North,Bilal,C1637
+O101169,2025-11-16,Theta Watch,Electronics,159.23,1,159.23,North,Ehsan,C5996
+O101170,2024-12-19,Gamma Sneakers,Footwear,174.07,1,174.07,East,Ayesha,C6669
+O101171,2025-09-18,Kappa Backpack,Accessories,120.69,1,120.69,East,Carlos,C4216
+O101172,2025-03-13,Kappa Backpack,Accessories,119.4,1,119.4,West,Ayesha,C3636
+O101173,2025-08-23,Epsilon Jacket,Apparel,192.73,1,192.73,Central,Ayesha,C7651
+O101174,2025-03-19,Epsilon Jacket,Apparel,192.63,1,192.63,West,Dina,C2178
+O101175,2025-04-15,Beta T-shirt,Apparel,173.24,1,173.24,East,Dina,C2984
+O101176,2025-08-23,Kappa Backpack,Accessories,235.3,1,235.3,East,Ehsan,C7812
+O101177,2025-03-14,Iota Charger,Electronics,46.27,1,46.27,North,Dina,C1859
+O101178,2025-07-16,Iota Charger,Electronics,177.78,1,177.78,East,Ayesha,C4187
+O101179,2025-05-24,Zeta Socks,Accessories,225.75,1,225.75,Central,Fatima,C1723
+O101180,2025-11-02,Zeta Socks,Accessories,151.57,2,303.14,North,Bilal,C2367
+O101181,2025-09-18,Iota Charger,Electronics,210.47,1,210.47,North,Bilal,C2451
+O101182,2025-03-02,Alpha Hoodie,Apparel,58.84,1,58.84,East,Bilal,C8579
+O101183,2025-11-04,Gamma Sneakers,Footwear,51.8,2,103.6,West,Ayesha,C2742
+O101184,2025-01-07,Alpha Hoodie,Apparel,43.94,1,43.94,South,Fatima,C8124
+O101185,2025-08-29,Delta Cap,Accessories,54.0,2,108.0,South,Dina,C4344
+O101186,2025-11-14,Iota Charger,Electronics,74.61,1,74.61,West,Ayesha,C6396
+O101187,2024-12-16,Alpha Hoodie,Apparel,113.2,1,113.2,South,Ayesha,C5289
+O101188,2025-08-16,Theta Watch,Electronics,207.65,2,415.3,East,Ayesha,C9998
+O101189,2025-03-01,Epsilon Jacket,Apparel,120.51,2,241.02,North,Bilal,C4077
+O101190,2025-04-01,Epsilon Jacket,Apparel,234.06,10,2340.6,North,Bilal,C2183
+O101191,2025-08-25,Theta Watch,Electronics,246.84,1,246.84,East,Bilal,C9718
+O101192,2025-05-07,Eta Laptop Sleeve,Accessories,18.61,1,18.61,West,Carlos,C3516
+O101193,2025-06-30,Gamma Sneakers,Footwear,176.44,3,529.32,West,Ayesha,C4997
+O101194,2025-03-15,Beta T-shirt,Apparel,175.9,1,175.9,East,Fatima,C1981
+O101195,2025-04-27,Eta Laptop Sleeve,Accessories,117.05,5,585.25,Central,Ayesha,C5881
+O101196,2025-09-16,Eta Laptop Sleeve,Accessories,91.19,2,182.38,East,Carlos,C2321
+O101197,2025-05-30,Eta Laptop Sleeve,Accessories,178.51,1,178.51,South,Ayesha,C1596
+O101198,2025-10-30,Zeta Socks,Accessories,39.74,1,39.74,East,Fatima,C3046
+O101199,2025-04-10,Zeta Socks,Accessories,86.89,1,86.89,Central,Dina,C7061

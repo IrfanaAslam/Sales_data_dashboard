@@ -10,7 +10,7 @@ import pandas as pd
 from dashboard import load_and_clean, time_series_summary, top_products, region_summary, category_distribution
 import matplotlib.pyplot as plt
 
-DATA_PATH = "sample_sales_data.csv"
+DATA_PATH = r"C:\Users\hp\OneDrive\Desktop\Portfolio Projects\Sales_data_dashboaed\data\sample_sales_data.csv"
 
 st.set_page_config(page_title="Sales Dashboard (Streamlit)", layout="wide")
 st.title("Sales Dashboard — Interactive")
