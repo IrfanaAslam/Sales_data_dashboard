@@ -25,13 +25,7 @@ A **Sales Data Dashboard** built with **Python, Pandas, Matplotlib, Plotly, and 
 
 ## 🎨 Dashboard Preview
 
-Static Portfolio-Ready Dashboard:
-
-![Dashboard Preview](sales_dashboard_portfolio.png)
-
-Interactive Dashboard GIF (replace with actual GIF if available):
-
-![Interactive Demo](https://media.giphy.com/media/your-dashboard-demo.gif)
+**Live Demo:** [🌐 Click here](https://sales-data-dashboard-8e5755xyamyx2ouzant9fp.streamlit.app/)  
 
 ---
 
