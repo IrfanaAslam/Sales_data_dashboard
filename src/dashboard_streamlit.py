@@ -24,7 +24,7 @@ from pathlib import Path
 DATA_PATH = "data/sample_sales_data.csv"
 
 st.set_page_config(page_title="Sales Data Dashboard", layout="wide", initial_sidebar_state="expanded")
-st.title("📊 Sales Data Dashboard — Advanced")
+st.title("📊 Sales Data Dashboard")
 
 # Load
 df = load_and_prepare(DATA_PATH)
@@ -123,9 +123,9 @@ st.subheader("Export & Download")
 csv = filtered.to_csv(index=False).encode('utf-8')
 st.download_button("Download filtered data (CSV)", data=csv, file_name="filtered_sales.csv", mime="text/csv")
 
-# Create static portfolio PNG for current filtered dataset (calls static generator)
-if st.button("Generate portfolio PNG (high-res)"):
-    tmp_out = "sales_dashboard_portfolio.png"
+# Create static PNG for current filtered dataset (calls static generator)
+if st.button("Generate PNG (high-res)"):
+    tmp_out = "sales_dashboard.png"
     # Save filtered dataset temporarily
     tmp_path = "data/tmp_filtered.csv"
     filtered.to_csv(tmp_path, index=False)
@@ -137,4 +137,4 @@ if st.button("Generate portfolio PNG (high-res)"):
     except Exception as e:
         st.error(f"Export failed: {e}")
 
-st.caption("Tip: Use the filters, then click 'Generate portfolio PNG' to export a snapshot of the current view.")
+st.caption("Tip: Use the filters, then click 'Generate PNG' to export a snapshot of the current view.")
