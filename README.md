@@ -6,7 +6,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-orange?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-5.15-purple?logo=plotly&logoColor=white)](https://plotly.com/)
 
-**Live Demo:** [🌐 Click here](https://sales-data-dashboard-8e5755xyamyx2ouzant9fp.streamlit.app/)  
+**Live Demo:** [🌐 Click here](https://salesdatadashboard-vveapexllnczugmyu4xily.streamlit.app/)  
 
 A **Sales Data Dashboard** built with **Python, Pandas, Matplotlib, Plotly, and Streamlit**, designed to analyze, visualize, and interact with sales data. This project is **portfolio-ready**, showcasing static and interactive dashboards with KPIs, charts, and insights.
 
@@ -25,7 +25,7 @@ A **Sales Data Dashboard** built with **Python, Pandas, Matplotlib, Plotly, and 
 
 ## 🎨 Dashboard Preview
 
-**Live Demo:** [🌐 Click here](https://sales-data-dashboard-8e5755xyamyx2ouzant9fp.streamlit.app/)  
+**Live Demo:** [🌐 Click here](https://salesdatadashboard-vveapexllnczugmyu4xily.streamlit.app/)  
 
 ---
 
